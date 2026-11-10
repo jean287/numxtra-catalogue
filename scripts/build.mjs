@@ -111,7 +111,7 @@ async function main() {
   for (const g of jeux) {
     const avant = ancienParId[g.id] || {};
     // Fichier .nwa du jeu seul (absent : le jeu n'existe que dans NumPlay.nwa)
-    const noms = [g.app && g.app.replace(/\.nwa$/i, ''), ALIAS[g.id], g.title].filter(Boolean).map(norm);
+    const noms = [g.app && g.app.replace(/\.nwa$/i, ''), ALIAS[g.id], g.id, g.title].filter(Boolean).map(norm);
     const a = assets.find((x) => noms.includes(norm(x.name.replace(/\.nwa$/i, ''))));
     let fichier = null;
     if (a) {
