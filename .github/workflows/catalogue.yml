@@ -1,0 +1,40 @@
+name: Catalogue NumXtra
+
+# Chaque jour, et à la demande depuis l'onglet Actions.
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalogue
+  cancel-in-progress: false
+
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Construire le catalogue
+        run: node scripts/build.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
+      - name: Publier s'il y a du nouveau
+        run: |
+          if [ -n "$(git status --porcelain catalogue data)" ]; then
+            git config user.name "NumXtra"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add catalogue data
+            git commit -m "Catalogue mis à jour"
+            git push
+          else
+            echo "Rien de nouveau"
+          fi
