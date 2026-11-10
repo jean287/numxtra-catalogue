@@ -1,6 +1,6 @@
 {
- "genere": "2026-11-10T19:13:54.228Z",
- "empreinte": "12e2c9f134db90c329d7a0f79b8e1c57dc7ba8e57641e7fdfa645e6cbb88aec8",
+ "genere": "2026-11-10T19:17:54.618Z",
+ "empreinte": "d61237bbfbdbdd905849455bf330e8836e1050954ade15e73d93f9c5e869c3b6",
  "format": 1,
  "source": "https://github.com/Mason363/NumPlay",
  "numplay": {
@@ -1671,7 +1671,13 @@
     "finalearth2_saves.py"
    ],
    "reinitialiser": [],
-   "fichier": null,
+   "fichier": {
+    "nom": "FinalEarth2.nwa",
+    "taille": 1197136,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FinalEarth2.nwa",
+    "sha256": "3960d227e8d04d3e7dcb2e6b9a133c19c99531721988c271767f5491a76b121f",
+    "maj": "2026-11-10T15:55:53Z"
+   },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/finalearth2",
    "fr": {
     "accroche": "Construis une ville dans l'espace",
