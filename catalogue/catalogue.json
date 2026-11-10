@@ -1,0 +1,3482 @@
+{
+ "genere": "2026-11-10T19:13:54.228Z",
+ "empreinte": "12e2c9f134db90c329d7a0f79b8e1c57dc7ba8e57641e7fdfa645e6cbb88aec8",
+ "format": 1,
+ "source": "https://github.com/Mason363/NumPlay",
+ "numplay": {
+  "version": "1.24.17",
+  "release": "v1.24.17"
+ },
+ "jeux": [
+  {
+   "id": "numblocks",
+   "titre": "NumBlocks",
+   "accroche": "Mine, craft, survive",
+   "description": "",
+   "credit": "Inspired by Minecraft, not affiliated with Mojang",
+   "couleurs": {
+    "haut": "#5d9c3a",
+    "bas": "#2e2116",
+    "accent": "#7fcc4a"
+   },
+   "rang": 1,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/numblocks/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/numblocks.gif",
+   "sauvegardes": [
+    "numblocks.cfg",
+    "nb1.nbw",
+    "nb1r*",
+    "nb2.nbw",
+    "nb2r*",
+    "nb3.nbw",
+    "nb3r*",
+    "nb4.nbw",
+    "nb4r*",
+    "nb5.nbw",
+    "nb5r*",
+    "nb6.nbw",
+    "nb6r*",
+    "nb7.nbw",
+    "nb7r*",
+    "nb8.nbw",
+    "nb8r*",
+    "nb9.nbw",
+    "nb9r*"
+   ],
+   "reinitialiser": [
+    "nb1.nbw",
+    "nb1r*",
+    "nb2.nbw",
+    "nb2r*",
+    "nb3.nbw",
+    "nb3r*",
+    "nb4.nbw",
+    "nb4r*",
+    "nb5.nbw",
+    "nb5r*",
+    "nb6.nbw",
+    "nb6r*",
+    "nb7.nbw",
+    "nb7r*",
+    "nb8.nbw",
+    "nb8r*",
+    "nb9.nbw",
+    "nb9r*"
+   ],
+   "fichier": {
+    "nom": "NumBlocks.nwa",
+    "taille": 812180,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumBlocks.nwa",
+    "sha256": "6daf95704cb7f30d0e79dcf471725e630175b5714cde745f48a1551a5cf63f0c",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numblocks",
+   "fr": {
+    "accroche": "Exploiter, fabriquer, survivre",
+    "description": null,
+    "credit": "Inspiré de Minecraft, sans aucun lien avec Mojang"
+   }
+  },
+  {
+   "id": "hollowknight",
+   "titre": "Hollow Knight",
+   "accroche": "Explore Hallownest",
+   "description": "Explore Hallownest as the Knight, on the NumWorks calculator. From King's Pass and Dirtmouth, through the Forgotten Crossroads, to Hornet in Greenpath.",
+   "credit": "Based on Hollow Knight by Team Cherry",
+   "couleurs": {
+    "haut": "#4c5e7e",
+    "bas": "#0b0f17",
+    "accent": "#e8eef5"
+   },
+   "rang": 1,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/hollowknight/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/hollowknight.gif",
+   "sauvegardes": [
+    "hk1.sav",
+    "hk2.sav",
+    "hk3.sav",
+    "hk4.sav",
+    "hollowknight_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "HollowKnight.nwa",
+    "taille": 2211608,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/HollowKnight.nwa",
+    "sha256": "44997c0a9bb17637f316b1b1bf4794b30bb4dda38aa3ccfaef17e38d38125f60",
+    "maj": "2026-11-10T15:55:51Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/hollowknight",
+   "fr": {
+    "accroche": "Découvre Hallownest",
+    "description": "Explore Hallownest dans la peau du Chevalier, sur la calculatrice NumWorks. De King's Pass et Dirtmouth, en passant par le Carrefour Oublié, jusqu'à Hornet à Greenpath.",
+    "credit": "Inspiré de Hollow Knight de Team Cherry"
+   }
+  },
+  {
+   "id": "numdrive",
+   "titre": "NumDrive",
+   "accroche": "Drive, flip, finish",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#35a8f0",
+    "bas": "#123a63",
+    "accent": "#ffb020"
+   },
+   "rang": 2,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/numdrive/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/numdrive.gif",
+   "sauvegardes": [
+    "drivemad.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "NumDrive.nwa",
+    "taille": 243756,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumDrive.nwa",
+    "sha256": "7f8500471c9b537b75eb5d9ac56a761a1543de965d4968b3fc78f1d7994cf69b",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumDrive",
+   "fr": {
+    "accroche": "Avance, retourne, termine",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "celeste",
+   "titre": "Celeste",
+   "accroche": "Climb the mountain",
+   "description": "Climb Celeste Mountain with Madeline, on the NumWorks calculator. The Prologue, all eight chapters, the Epilogue, and every B-side and C-side.",
+   "credit": "Based on Celeste by Maddy Makes Games",
+   "couleurs": {
+    "haut": "#5865c8",
+    "bas": "#161a3a",
+    "accent": "#ff5a6e"
+   },
+   "rang": 2,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/celeste/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/celeste.gif",
+   "sauvegardes": [
+    "celeste.sav",
+    "celeste_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Celeste.nwa",
+    "taille": 2582412,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Celeste.nwa",
+    "sha256": "da03661d20ecc5b71ecb28c86baa39d822ef49200450aeb32dae7d95b0312037",
+    "maj": "2026-11-10T15:55:51Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/celeste",
+   "fr": {
+    "accroche": "Grimpe la montagne",
+    "description": "Escalade la montagne Celeste avec Madeline, sur la calculatrice NumWorks. Le prologue, les huit chapitres, l'épilogue, ainsi que toutes les faces B et C.",
+    "credit": "Inspiré de « Celeste » de Maddy Makes Games"
+   }
+  },
+  {
+   "id": "balatro",
+   "titre": "Balatro",
+   "accroche": "Poker hands, wild jokers",
+   "description": "The poker roguelike, on the NumWorks N0120 calculator. Play poker hands, build a deck of Jokers and beat the Boss Blind of Ante 8.",
+   "credit": null,
+   "couleurs": {
+    "haut": "#fe5f55",
+    "bas": "#1e2a2c",
+    "accent": "#009dff"
+   },
+   "rang": 3,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/balatro/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/balatro.gif",
+   "sauvegardes": [
+    "balatro.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Balatro.nwa",
+    "taille": 288300,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Balatro.nwa",
+    "sha256": "aa19a0ed206c0de3a9e37bfa14c574845106f2efdf2718752ae86d075f24e815",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/balatro",
+   "fr": {
+    "accroche": "Combinaisons de poker, jokers",
+    "description": "Le roguelike de poker, sur la calculatrice NumWorks N0120. Joue des mains de poker, constitue un jeu de jokers et bats le Boss Blind de l'Ante 8.",
+    "credit": null
+   }
+  },
+  {
+   "id": "undertale",
+   "titre": "Undertale",
+   "accroche": "Fall into the Underground",
+   "description": "Fall into the Underground as a human child, on the NumWorks calculator. The whole Underground, from the bed of golden flowers to the barrier: the Ruins, Snowdin, Waterfall, Hotland, the MTT Resort, the CORE and New Home, to the neutral ending.",
+   "credit": "Based on Undertale by Toby Fox",
+   "couleurs": {
+    "haut": "#3a3a46",
+    "bas": "#050506",
+    "accent": "#e8241c"
+   },
+   "rang": 3,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/undertale/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/undertale.gif",
+   "sauvegardes": [
+    "undertale.sav",
+    "utresume.sav",
+    "utconfig.sav",
+    "undertale_saves.py"
+   ],
+   "reinitialiser": [
+    "undertale.sav",
+    "utresume.sav",
+    "undertale_saves.py"
+   ],
+   "fichier": {
+    "nom": "Undertale.nwa",
+    "taille": 1959868,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Undertale.nwa",
+    "sha256": "8367830d16c4af2514730f97136e68f315b18be957de85f4f2cfcd55f49d6951",
+    "maj": "2026-11-10T15:55:52Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/undertale",
+   "fr": {
+    "accroche": "Plonge dans le monde souterrain",
+    "description": "Plonge dans l'Underground en incarnant un enfant humain, sur la calculatrice NumWorks. Tout l'Underground, du parterre de fleurs dorées jusqu'à la barrière : les Ruines, Snowdin, la Cascade, Hotland, le MTT Resort, le CORE et New Home, jusqu'à la fin neutre.",
+    "credit": "D'après Undertale de Toby Fox"
+   }
+  },
+  {
+   "id": "numdash",
+   "titre": "NumDash",
+   "accroche": "Jump to the beat",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#3d6bff",
+    "bas": "#14124f",
+    "accent": "#35c759"
+   },
+   "rang": 4,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/numdash/assets/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/numdash.gif",
+   "sauvegardes": [
+    "numdash.nds",
+    "numdash.ndd",
+    "numdash1.ndl",
+    "numdash2.ndl",
+    "numdash3.ndl"
+   ],
+   "reinitialiser": [
+    "numdash.nds"
+   ],
+   "fichier": {
+    "nom": "NumDash.nwa",
+    "taille": 573132,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumDash.nwa",
+    "sha256": "728b6ea8ed60a0af4094a7d19e402720694df8755961c164380604e0ac6f99ec",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumDash",
+   "fr": {
+    "accroche": "Bouge au rythme de la musique",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "fnf",
+   "titre": "Friday Night Funkin'",
+   "accroche": "Win the rap battles, note by note",
+   "description": "Win the rap battles, note by note, on the NumWorks calculator. Every week of the game, from the Tutorial to Weekend 1, with its charts, characters and stages.",
+   "credit": "Based on Friday Night Funkin' by the Funkin' Crew",
+   "couleurs": {
+    "haut": "#3a1f5d",
+    "bas": "#140a24",
+    "accent": "#f9393f"
+   },
+   "rang": 4,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fnf/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fnf.gif",
+   "sauvegardes": [
+    "fnf.sav",
+    "fnf_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FridayNightFunkin.nwa",
+    "taille": 1701440,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FridayNightFunkin.nwa",
+    "sha256": "a102f809e8739b1cbc8419ff4cd87519bbb8a46626323d8280f74d3e59f2788a",
+    "maj": "2026-11-10T15:55:55Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnf",
+   "fr": {
+    "accroche": "Remporte les battles de rap, note après note",
+    "description": "Remporte les battles de rap, note après note, sur la calculatrice NumWorks. Chaque semaine du jeu, du tutoriel au week-end n° 1, avec ses classements, ses personnages et ses niveaux.",
+    "credit": "D'après « Friday Night Funkin' » du Funkin' Crew"
+   }
+  },
+  {
+   "id": "buckshot",
+   "titre": "Buckshot Roulette",
+   "accroche": "You, the Dealer, one shotgun",
+   "description": "Buckshot Roulette for the NumWorks N0120 calculator. You, the Dealer, and a shotgun loaded in a hidden order.",
+   "credit": null,
+   "couleurs": {
+    "haut": "#4a2a26",
+    "bas": "#0e0a09",
+    "accent": "#d83a2e"
+   },
+   "rang": 5,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/buckshot/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/buckshot.gif",
+   "sauvegardes": [
+    "buckshot.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "BuckshotRoulette.nwa",
+    "taille": 264772,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/BuckshotRoulette.nwa",
+    "sha256": "15a59f84863f8856122bcf0bde513540768c9b279eef609a17b9a4e7e549b670",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/buckshot",
+   "fr": {
+    "accroche": "Toi, le croupier, un fusil de chasse",
+    "description": "« Buckshot Roulette » pour la calculatrice NumWorks N0120. Toi, le croupier, et un fusil de chasse chargé selon un ordre secret.",
+    "credit": null
+   }
+  },
+  {
+   "id": "angrybirds",
+   "titre": "Angry Birds",
+   "accroche": "Fling the birds at the pigs",
+   "description": "Fling the birds at the pigs' castles, on the NumWorks calculator. The 429 levels of the Chrome edition, its seven birds and the Mighty Eagle.",
+   "credit": "Based on Angry Birds by Rovio",
+   "couleurs": {
+    "haut": "#8fd3f4",
+    "bas": "#3d7a24",
+    "accent": "#e0262b"
+   },
+   "rang": 5,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/angrybirds/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/angrybirds.gif",
+   "sauvegardes": [
+    "angrybirds.sav",
+    "angrybirds_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "AngryBirds.nwa",
+    "taille": 1797068,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/AngryBirds.nwa",
+    "sha256": "8c63c1cfe42ea00ea2475dfeee86b47f3c86a8db2f722b050e42293b552aa2b6",
+    "maj": "2026-11-10T15:55:55Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/angrybirds",
+   "fr": {
+    "accroche": "Lance les oiseaux sur les cochons",
+    "description": "Lance les oiseaux sur les châteaux des cochons, sur la calculatrice NumWorks. Les 429 niveaux de l'édition Chrome, ses sept oiseaux et le Mighty Eagle.",
+    "credit": "D'après Angry Birds de Rovio"
+   }
+  },
+  {
+   "id": "crossyroad",
+   "titre": "Crossy Road",
+   "accroche": "Hop, dodge, survive",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#45b649",
+    "bas": "#10421c",
+    "accent": "#ff8a1f"
+   },
+   "rang": 6,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/crossyroad/assets/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/crossyroad.gif",
+   "sauvegardes": [
+    "crossyroad.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "CrossyRoad.nwa",
+    "taille": 22976,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/CrossyRoad.nwa",
+    "sha256": "25c12c2e6629d888d247e91eba41d33dadecc22732687d907b10917c92e0fc87",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/CrossyWorks",
+   "fr": {
+    "accroche": "Saute, esquive, survis",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "subway",
+   "titre": "Subway Surfers",
+   "accroche": "Dodge the trains",
+   "description": "Dash down the subway's tracks, dodge the trains and outrun the Inspector, on the NumWorks calculator. The endless run in 3D, seen from behind and above like on phones, with its coins, power-ups, hoverboards, missions and shop.",
+   "credit": "Based on Subway Surfers by SYBO and Kiloo",
+   "couleurs": {
+    "haut": "#3a8fd8",
+    "bas": "#173a5e",
+    "accent": "#ffc93c"
+   },
+   "rang": 6,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/subway/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/subway.gif",
+   "sauvegardes": [
+    "subway.sav",
+    "subway_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SubwaySurfers.nwa",
+    "taille": 1767680,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/SubwaySurfers.nwa",
+    "sha256": "b5b0ca11983bb89789463378cde86d2c57b36c0536535f101de33e462af633b6",
+    "maj": "2026-11-10T15:55:52Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/subway",
+   "fr": {
+    "accroche": "Évite les trains",
+    "description": "Fonce sur les voies du métro, esquive les trains et semé l'Inspecteur sur la calculatrice NumWorks. Ce jeu de course sans fin en 3D, vu de dos et d'en haut comme sur les téléphones, propose des pièces, des bonus, des hoverboards, des missions et une boutique.",
+    "credit": "D'après le jeu « Subway Surfers » de SYBO et Kiloo"
+   }
+  },
+  {
+   "id": "portal",
+   "titre": "Portal Returns",
+   "accroche": "Think with portals",
+   "description": "The TI-84 Plus CE classic, on the NumWorks N0120. 78 test chambers, the original art and the original physics, in about 35 KB.",
+   "credit": null,
+   "couleurs": {
+    "haut": "#4a4952",
+    "bas": "#1b1a20",
+    "accent": "#1c83e0"
+   },
+   "rang": 7,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/portal/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/portal.gif",
+   "sauvegardes": [
+    "portal.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "PortalReturns.nwa",
+    "taille": 43320,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/PortalReturns.nwa",
+    "sha256": "47925ce375835ebacb6972f6af66c1c538d86667fe6c7b923c78ccad850930f8",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/portal",
+   "fr": {
+    "accroche": "Pense en termes de portails",
+    "description": "La TI-84 Plus CE classique, sur la NumWorks N0120. 78 salles de test, les graphismes et les calculs de physique d'origine, le tout en environ 35 Ko.",
+    "credit": null
+   }
+  },
+  {
+   "id": "jetpackjoyride",
+   "titre": "Jetpack Joyride",
+   "accroche": "Fly Barry through the lab",
+   "description": "Barry Steakfries steals a jetpack and flies through the lab, on the NumWorks calculator. The zappers, missiles, lasers, coins, vehicles and the Final Spin of Halfbrick's game.",
+   "credit": "Based on Jetpack Joyride by Halfbrick",
+   "couleurs": {
+    "haut": "#2c4a6e",
+    "bas": "#17283d",
+    "accent": "#f2b33d"
+   },
+   "rang": 7,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/jetpackjoyride/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/jetpackjoyride.gif",
+   "sauvegardes": [
+    "jetpackjoyride.sav",
+    "jetpackjoyride_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "JetpackJoyride.nwa",
+    "taille": 690156,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/JetpackJoyride.nwa",
+    "sha256": "6f575da43cb8154f65e85b1d5c02b9631ea37c6d796a27cc0184987468d08c9d",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/jetpackjoyride",
+   "fr": {
+    "accroche": "Fais voler Barry à travers le labo",
+    "description": "Barry Steakfries vole un jetpack et traverse le labo en volant, sur la calculatrice NumWorks. Les zappers, les missiles, les lasers, les pièces, les véhicules et le « Final Spin » du jeu de Halfbrick.",
+    "credit": "Inspiré de Jetpack Joyride de Halfbrick"
+   }
+  },
+  {
+   "id": "blockblast",
+   "titre": "Block Blast",
+   "accroche": "Fit the blocks, blast the lines",
+   "description": "",
+   "credit": "Based on Block Blast! by Hungry Studio",
+   "couleurs": {
+    "haut": "#516fc5",
+    "bas": "#1a264c",
+    "accent": "#fbd008"
+   },
+   "rang": 8,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/blockblast/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/blockblast.gif",
+   "sauvegardes": [
+    "blockblast.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "BlockBlast.nwa",
+    "taille": 34052,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/BlockBlast.nwa",
+    "sha256": "0a8b26b26e58171338a8012de91ae00138b610606c9ee73daeaced8a2f667ce7",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/blockblast",
+   "fr": {
+    "accroche": "Aligne les blocs, fais exploser les lignes",
+    "description": null,
+    "credit": "D'après « Block Blast ! » de Hungry Studio"
+   }
+  },
+  {
+   "id": "monkeymart",
+   "titre": "Monkey Mart",
+   "accroche": "Run a grocery mart as a monkey",
+   "description": "Run a grocery mart as a monkey, on the NumWorks calculator. Both marts of TinyDobbins' web game: crops, animals, machines, customers and workers.",
+   "credit": "Based on Monkey Mart by TinyDobbins",
+   "couleurs": {
+    "haut": "#7dd86a",
+    "bas": "#2e8a3a",
+    "accent": "#f2c230"
+   },
+   "rang": 8,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/monkeymart/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/monkeymart.gif",
+   "sauvegardes": [
+    "monkeymart.sav",
+    "monkeymart_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "MonkeyMart.nwa",
+    "taille": 633692,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/MonkeyMart.nwa",
+    "sha256": "e15cef9217d5ebdc4e98f3c76e45df63c590633f064bf3bce1951f1806de421c",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/monkeymart",
+   "fr": {
+    "accroche": "Gère une épicerie en incarnant un singe",
+    "description": "Gère une épicerie en incarnant un singe, sur la calculatrice NumWorks. Les deux épiceries du jeu en ligne de TinyDobbins : cultures, animaux, machines, clients et employés.",
+    "credit": "D'après « Monkey Mart » de TinyDobbins"
+   }
+  },
+  {
+   "id": "suika",
+   "titre": "Suika Game",
+   "accroche": "Merge the fruit into a watermelon",
+   "description": "",
+   "credit": "Based on Suika Game by Aladdin X",
+   "couleurs": {
+    "haut": "#f2c46a",
+    "bas": "#9a5a22",
+    "accent": "#6cc530"
+   },
+   "rang": 9,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/suika/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/suika.gif",
+   "sauvegardes": [
+    "suika.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SuikaGame.nwa",
+    "taille": 38240,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/SuikaGame.nwa",
+    "sha256": "d16049c69826b17d0fab2d771bf9f9ad1efaf2791ffe46d8c1e810b4ebb523bf",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/suika",
+   "fr": {
+    "accroche": "Mélange les fruits dans une pastèque",
+    "description": null,
+    "credit": "D'après le jeu « Suika » d'Aladdin X"
+   }
+  },
+  {
+   "id": "pvz",
+   "titre": "Plants vs. Zombies",
+   "accroche": "Plant your lawn",
+   "description": "Zombies are coming to your house: plant your lawn to stop them, on the NumWorks calculator. The whole Adventure: 50 levels from the front lawn to the roof, 40 plants, 24 zombies, Crazy Dave, his shop, the Almanac, and Dr. Zomboss in his Zombot.",
+   "credit": "Based on the game by PopCap Games",
+   "couleurs": {
+    "haut": "#6cc04a",
+    "bas": "#1f4a17",
+    "accent": "#ffe040"
+   },
+   "rang": 9,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/pvz/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/pvz.gif",
+   "sauvegardes": [
+    "pvz.sav",
+    "pvzlevel.sav",
+    "pvz_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "PlantsVsZombies.nwa",
+    "taille": 1766600,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/PlantsVsZombies.nwa",
+    "sha256": "1d5f5aca5378f39d831d4cc1b3f0ac76ddf2b799fd1e41cda4bebea611712d43",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/pvz",
+   "fr": {
+    "accroche": "Aménage ta pelouse",
+    "description": "Les zombies débarquent chez toi : plante des plantes dans ta pelouse pour les arrêter, sur la calculatrice NumWorks. Toute l'aventure : 50 niveaux, de la pelouse devant la maison jusqu'au toit, 40 plantes, 24 zombies, Crazy Dave, sa boutique, l'Almanach et le Dr Zomboss dans son Zombot.",
+    "credit": "D'après le jeu de PopCap Games"
+   }
+  },
+  {
+   "id": "tetris",
+   "titre": "Tetris",
+   "accroche": "Stack and clear lines",
+   "description": "",
+   "credit": "By Tatone26, from All the Apps",
+   "couleurs": {
+    "haut": "#8a4dff",
+    "bas": "#1e0b45",
+    "accent": "#ff4fa3"
+   },
+   "rang": 10,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/tetris/tetris/src/data/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/previews/tetris.gif",
+   "sauvegardes": [
+    "tetris.sav",
+    "tetris.set"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Tetris.nwa",
+    "taille": 143196,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Tetris.nwa",
+    "sha256": "07604f9efc8eea9db4aadf4cc75234f61f24bc56c76ef1ea1137046ba5e3b008",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Tatone26/Numworks-games/tree/main/apps/tetris",
+   "fr": {
+    "accroche": "Empiler et effacer des lignes",
+    "description": null,
+    "credit": "Par Tatone26, sur All the Apps"
+   }
+  },
+  {
+   "id": "tombofthemask",
+   "titre": "Tomb of the Mask",
+   "accroche": "Dash through the tomb ahead of the lava",
+   "description": "Dash through a tomb full of traps, on the NumWorks calculator. The endless arcade climb ahead of the lava, and all 200 stages.",
+   "credit": "Based on Tomb of the Mask by Playgendary",
+   "couleurs": {
+    "haut": "#3a1a78",
+    "bas": "#0c0620",
+    "accent": "#fff600"
+   },
+   "rang": 10,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/tombofthemask/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/tombofthemask.gif",
+   "sauvegardes": [
+    "tombofthemask.sav",
+    "tombofthemask_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "TombOfTheMask.nwa",
+    "taille": 240760,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/TombOfTheMask.nwa",
+    "sha256": "98d8ccc4ea10d0b6b3d0352dfb22da4569bde34b4e2a037769510d2e31b63738",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/tombofthemask",
+   "fr": {
+    "accroche": "Fonce à travers la tombe avant que la lave n'arrive",
+    "description": "Fonce à travers une tombe pleine de pièges, sur la calculatrice NumWorks. Un jeu d'arcade sans fin où il faut devancer la lave, avec 200 niveaux au total.",
+    "credit": "D'après « Tomb of the Mask » de Playgendary"
+   }
+  },
+  {
+   "id": "doodlejump",
+   "titre": "Doodle Jump",
+   "accroche": "Bounce as high as you can",
+   "description": "Bounce from platform to platform, as high as you can, on the NumWorks calculator. Lima Sky's game on its graph paper, with its own doodler, platforms and monsters.",
+   "credit": "Based on Doodle Jump by Lima Sky",
+   "couleurs": {
+    "haut": "#c8d84a",
+    "bas": "#4a7a22",
+    "accent": "#f7f7f4"
+   },
+   "rang": 11,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/doodlejump/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/doodlejump.gif",
+   "sauvegardes": [
+    "doodlejump.sav",
+    "doodlejump_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "DoodleJump.nwa",
+    "taille": 138716,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/DoodleJump.nwa",
+    "sha256": "6a7d3048145f1284444ce49b6adf41aee4bcaabb9a034fcaca80ac947b342332",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/doodlejump",
+   "fr": {
+    "accroche": "Saute aussi haut que tu peux",
+    "description": "Saute de plateforme en plateforme, aussi haut que tu peux, sur la calculatrice NumWorks. Le jeu de Lima Sky sur son papier millimétré, avec son propre outil de dessin, ses plateformes et ses monstres.",
+    "credit": "Inspiré de « Doodle Jump » de Lima Sky"
+   }
+  },
+  {
+   "id": "stickmanhook",
+   "titre": "Stickman Hook",
+   "accroche": "Swing from hook to hook",
+   "description": "Swing from hook to hook to the checkered line, on the NumWorks calculator. The 39 levels of Madbox's game, then levels without end, and its 23 characters.",
+   "credit": "Based on Stickman Hook by Madbox",
+   "couleurs": {
+    "haut": "#8a5cc8",
+    "bas": "#3e2c8a",
+    "accent": "#e8303a"
+   },
+   "rang": 11,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/stickmanhook/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/stickmanhook.gif",
+   "sauvegardes": [
+    "stickmanhook.sav",
+    "stickmanhook_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "StickmanHook.nwa",
+    "taille": 213928,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/StickmanHook.nwa",
+    "sha256": "ff422db3dcc20a309491755426895a4e7c0ff6fa651c1e6b8e07aba419764b0c",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/stickmanhook",
+   "fr": {
+    "accroche": "Passe d'un crochet à l'autre",
+    "description": "Passe d'un crochet à l'autre jusqu'à la ligne en damier, sur la calculatrice NumWorks. Les 39 niveaux du jeu de Madbox, puis des niveaux à l'infini, et ses 23 personnages.",
+    "credit": "D'après « Stickman Hook » de Madbox"
+   }
+  },
+  {
+   "id": "pacman",
+   "titre": "Pac-Man",
+   "accroche": "Eat dots, dodge ghosts",
+   "description": "",
+   "credit": "Inspired by Tatone26's All the Apps",
+   "couleurs": {
+    "haut": "#2a2ae0",
+    "bas": "#05052a",
+    "accent": "#ffd800"
+   },
+   "rang": 12,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/pacman/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/pacman.gif",
+   "sauvegardes": [
+    "pacman.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "PacMan.nwa",
+    "taille": 25596,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/PacMan.nwa",
+    "sha256": "91e22e6f7a974ff6f40260dc39df25afad2f98e146a28088c6271dd91e6bb5a6",
+    "maj": "2026-11-10T15:56:01Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/pacman",
+   "fr": {
+    "accroche": "Mange les points, évite les fantômes",
+    "description": null,
+    "credit": "Inspiré par « All the Apps » de Tatone26"
+   }
+  },
+  {
+   "id": "dune",
+   "titre": "Dune",
+   "accroche": "Roll down the dunes and fly over the line",
+   "description": "Roll down the dunes and fly off the next one, on the NumWorks calculator. The web version of Dune!, with all 26 balls and 7 landscapes of its shop.",
+   "credit": "Based on Dune! by Team Lava",
+   "couleurs": {
+    "haut": "#8fc8e8",
+    "bas": "#3e6a2a",
+    "accent": "#f2c230"
+   },
+   "rang": 12,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/dune/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/dune.gif",
+   "sauvegardes": [
+    "dune.sav",
+    "dune_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Dune.nwa",
+    "taille": 393512,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Dune.nwa",
+    "sha256": "b979a19a0dc625497bf9293109ef306f7742a5f45d34164384f3d520bc1c1d7b",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/dune",
+   "fr": {
+    "accroche": "Dévale les dunes et franchis la ligne à toute vitesse",
+    "description": "Dévale les dunes et envole-toi depuis la suivante, sur la calculatrice NumWorks. La version web de Dune !, avec les 26 balles et les 7 paysages de sa boutique.",
+    "credit": "D'après « Dune ! » par Team Lava"
+   }
+  },
+  {
+   "id": "flappybird",
+   "titre": "Flappy Bird",
+   "accroche": "Flap through the pipes",
+   "description": "",
+   "credit": "Inspired by Tatone26's All the Apps",
+   "couleurs": {
+    "haut": "#4ec0ca",
+    "bas": "#10474c",
+    "accent": "#f8b733"
+   },
+   "rang": 13,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/flappybird/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/flappybird.gif",
+   "sauvegardes": [
+    "flappy.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FlappyBird.nwa",
+    "taille": 27380,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FlappyBird.nwa",
+    "sha256": "a7ada5b2176c443029bc4c9f58b7908152b45e79ee09ab45bd139bf62140df5c",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/flappybird",
+   "fr": {
+    "accroche": "Fonce à travers les tuyaux",
+    "description": null,
+    "credit": "Inspiré par « All the Apps » de Tatone26"
+   }
+  },
+  {
+   "id": "doom",
+   "titre": "Doom",
+   "accroche": "Rip and tear",
+   "description": "Rip and tear through the moon bases of Mars, on the NumWorks calculator. id Software's Doom, the shareware episode: Knee-Deep in the Dead, all nine levels, run by the real Doom engine.",
+   "credit": "Based on Doom by id Software",
+   "couleurs": {
+    "haut": "#6b4a2e",
+    "bas": "#1a0f08",
+    "accent": "#d8261c"
+   },
+   "rang": 13,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/doom/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/doom.gif",
+   "sauvegardes": [
+    "doomsav0.dsg",
+    "doomsav1.dsg",
+    "doomsav2.dsg",
+    "doomsav3.dsg",
+    "doomsav4.dsg",
+    "doomsav5.dsg",
+    "doomres.sav",
+    "doom.cfg",
+    "doom_saves.py"
+   ],
+   "reinitialiser": [
+    "doomsav0.dsg",
+    "doomsav1.dsg",
+    "doomsav2.dsg",
+    "doomsav3.dsg",
+    "doomsav4.dsg",
+    "doomsav5.dsg",
+    "doomres.sav",
+    "doom_saves.py"
+   ],
+   "fichier": {
+    "nom": "Doom.nwa",
+    "taille": 2049624,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Doom.nwa",
+    "sha256": "6248c1a8bb88154863f6e578a9eea2127720c1fd9d507084c7621b5a8fa64f14",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/doom",
+   "fr": {
+    "accroche": "Déchirer et déchirer",
+    "description": "Fonce à toute allure à travers les bases lunaires de Mars, sur la calculatrice NumWorks. « Doom » d'id Software, l'épisode shareware : « Knee-Deep in the Dead », les neuf niveaux, fonctionnant avec le véritable moteur de « Doom ».",
+    "credit": "D'après « Doom » d'id Software"
+   }
+  },
+  {
+   "id": "twoplayer",
+   "titre": "2 Players",
+   "accroche": "Pong and more, side by side",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#d33b3b",
+    "bas": "#172a72",
+    "accent": "#2e7cf6"
+   },
+   "rang": 14,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/twoplayer/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/twoplayer.gif",
+   "sauvegardes": [
+    "twoplayer.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "TwoPlayers.nwa",
+    "taille": 42896,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/TwoPlayers.nwa",
+    "sha256": "3c2676459f1ea780b6b9cbe1faaf8499b45a21688d1d4cfe71c6a6b8ab496c49",
+    "maj": "2026-11-10T15:56:02Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/twoplayer",
+   "fr": {
+    "accroche": "Pong et bien plus encore, côte à côte",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "uno",
+   "titre": "UNO",
+   "accroche": "Match the cards, shout UNO",
+   "description": "The card game against one to three bots, on the NumWorks calculator. The official rules, the 108-card deck and scoring to 500 points.",
+   "credit": "Based on UNO by Mattel",
+   "couleurs": {
+    "haut": "#1f6b4a",
+    "bas": "#0b3324",
+    "accent": "#e53935"
+   },
+   "rang": 14,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/uno/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/uno.gif",
+   "sauvegardes": [
+    "uno.sav",
+    "uno_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "UNO.nwa",
+    "taille": 81120,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/UNO.nwa",
+    "sha256": "564941b7a83312a88a994f24c5cf7349254e4efc6ec0c280ba48c8203cc2b6a2",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/uno",
+   "fr": {
+    "accroche": "Associe les cartes, crie « UNO » !",
+    "description": "Le jeu de cartes contre un à trois bots, sur la calculatrice NumWorks. Les règles officielles, le jeu de 108 cartes et le score à atteindre : 500 points.",
+    "credit": "D'après le jeu « UNO » de Mattel"
+   }
+  },
+  {
+   "id": "chess",
+   "titre": "Chess",
+   "accroche": "Bots, puzzles, 2 players",
+   "description": "Chess for the NumWorks N0120 calculator. 12 bots, endless puzzles and a two-player clock, in a native app of about 20 KB.",
+   "credit": null,
+   "couleurs": {
+    "haut": "#7fa650",
+    "bas": "#22211e",
+    "accent": "#81b64c"
+   },
+   "rang": 15,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/chess/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/chess.gif",
+   "sauvegardes": [
+    "numchess.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "NumChess.nwa",
+    "taille": 30784,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumChess.nwa",
+    "sha256": "4e3bd743f0ba0bd641a84513b8f064752dcda56838a28c7e6a7d201c6ca34a62",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Mason363/NumChess",
+   "fr": {
+    "accroche": "Bots, casse-têtes, 2 joueurs",
+    "description": "Jeu d'échecs pour la calculatrice NumWorks N0120. 12 adversaires automatiques, des énigmes à l'infini et un chronomètre pour deux joueurs, le tout dans une appli native d'environ 20 Ko.",
+    "credit": null
+   }
+  },
+  {
+   "id": "mahjong",
+   "titre": "Mahjong",
+   "accroche": "Match free tiles, clear the board",
+   "description": "Mahjong solitaire for the NumWorks calculator. 144 tiles in the Turtle and three more layouts. Match free tiles until the board is clear.",
+   "credit": "Layouts from KMahjongg",
+   "couleurs": {
+    "haut": "#23774d",
+    "bas": "#0e3524",
+    "accent": "#ffc93c"
+   },
+   "rang": 15,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/mahjong/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/mahjong.gif",
+   "sauvegardes": [
+    "mahjong.sav",
+    "mahjong_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Mahjong.nwa",
+    "taille": 47336,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Mahjong.nwa",
+    "sha256": "2e267f93ad4ee22ae7ba7753110f55ad3e340a577042878cdd6ecb22794ee67c",
+    "maj": "2026-11-10T15:55:55Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/mahjong",
+   "fr": {
+    "accroche": "Associe les tuiles identiques, vide le plateau",
+    "description": "Un jeu de mah-jong solitaire pour la calculatrice NumWorks. 144 tuiles dans la disposition « Turtle » et trois autres dispositions. Associe les tuiles libres jusqu'à ce que le plateau soit vide.",
+    "credit": "Configurations de KMahjongg"
+   }
+  },
+  {
+   "id": "flappydunk",
+   "titre": "Flappy Dunk",
+   "accroche": "Flap the ball down through every hoop",
+   "description": "Flap the winged ball down through every hoop, on the NumWorks calculator. The endless run and all 51 challenges, with the game's balls, wings, hoops and flames.",
+   "credit": "Based on Flappy Dunk by Voodoo",
+   "couleurs": {
+    "haut": "#ffa53d",
+    "bas": "#b8400f",
+    "accent": "#ffe08a"
+   },
+   "rang": 16,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/flappydunk/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/flappydunk.gif",
+   "sauvegardes": [
+    "flappydunk.sav",
+    "flappydunk_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FlappyDunk.nwa",
+    "taille": 391064,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FlappyDunk.nwa",
+    "sha256": "17b385e5b633786f4426d889ed5ed8b772846e5de21bedebc2a54d2e49278f27",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/flappydunk",
+   "fr": {
+    "accroche": "Fais passer le ballon à travers tous les cerceaux",
+    "description": "Fais passer la balle ailée à travers tous les cerceaux sur la calculatrice NumWorks. Une partie sans fin et les 51 défis, avec les balles, les ailes, les cerceaux et les flammes du jeu.",
+    "credit": "Inspiré de « Flappy Dunk » de Voodoo"
+   }
+  },
+  {
+   "id": "fnaf",
+   "titre": "Five Nights at Freddy's",
+   "accroche": "Survive five nights",
+   "description": "Survive the night shift at Freddy Fazbear's Pizza, on the NumWorks calculator. All five nights, the 6th and the Custom Night, with the game's own pictures.",
+   "credit": "Based on the game by Scott Cawthon",
+   "couleurs": {
+    "haut": "#4a3a30",
+    "bas": "#0a0806",
+    "accent": "#d8a93a"
+   },
+   "rang": 16,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fnaf/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fnaf.gif",
+   "sauvegardes": [
+    "fnaf.sav",
+    "fnafres.sav",
+    "fnaf_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FiveNightsAtFreddys.nwa",
+    "taille": 1094432,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FiveNightsAtFreddys.nwa",
+    "sha256": "050966b5e79e7ba1903ad8bd1e5c50493988a6d0b958908a85de60e1d71e872d",
+    "maj": "2026-11-10T15:55:52Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf",
+   "fr": {
+    "accroche": "Survis à cinq nuits",
+    "description": "Survis au service de nuit chez Freddy Fazbear's Pizza, sur la calculatrice NumWorks. Les cinq nuits, la 6e nuit et la nuit personnalisée, avec les images du jeu.",
+    "credit": "D'après le jeu de Scott Cawthon"
+   }
+  },
+  {
+   "id": "dinorun",
+   "titre": "Chrome Dino",
+   "accroche": "Jump, duck, survive",
+   "description": "",
+   "credit": "Based on Chrome's dinosaur game by Google",
+   "couleurs": {
+    "haut": "#e5e5e5",
+    "bas": "#555555",
+    "accent": "#71a050"
+   },
+   "rang": 17,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/dinorun/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/dinorun.gif",
+   "sauvegardes": [
+    "dinorun.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "ChromeDino.nwa",
+    "taille": 28540,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/ChromeDino.nwa",
+    "sha256": "7def83b0e007c05c24c0a93df5f06fae2e863e32a6fce6048b5b339480afec31",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/dinorun",
+   "fr": {
+    "accroche": "Saute, baisse-toi, survis",
+    "description": null,
+    "credit": "Inspiré du jeu du dinosaure de Chrome, créé par Google"
+   }
+  },
+  {
+   "id": "donkeykong",
+   "titre": "Donkey Kong",
+   "accroche": "Climb the girders and save Pauline",
+   "description": "Mario climbs a building site after Pauline, on the NumWorks calculator. The 1981 arcade game: barrels, pies, elevators and rivets, up to Kong's fall.",
+   "credit": "Based on Donkey Kong by Nintendo",
+   "couleurs": {
+    "haut": "#2a1018",
+    "bas": "#0c0c14",
+    "accent": "#e8406a"
+   },
+   "rang": 17,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/donkeykong/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/donkeykong.gif",
+   "sauvegardes": [
+    "donkeykong.sav",
+    "donkeykong_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "DonkeyKong.nwa",
+    "taille": 91272,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/DonkeyKong.nwa",
+    "sha256": "4f9d061dd811f1a35c585122f61cc527c62277b59b9c984d54a60cfa412f1c30",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/donkeykong",
+   "fr": {
+    "accroche": "Grimpe sur les poutres et sauve Pauline",
+    "description": "Mario grimpe sur un chantier à la poursuite de Pauline, sur la calculatrice NumWorks. Le jeu d'arcade de 1981 : des tonneaux, des tartes, des ascenseurs et des rivets, jusqu'à la chute de Kong.",
+    "credit": "Inspiré de Donkey Kong de Nintendo"
+   }
+  },
+  {
+   "id": "coreball",
+   "titre": "Core Ball",
+   "accroche": "Stick every ball to the spinning core",
+   "description": "",
+   "credit": "Based on Core Ball by Yang Hao",
+   "couleurs": {
+    "haut": "#5a5a5a",
+    "bas": "#0a0a0a",
+    "accent": "#1cb01a"
+   },
+   "rang": 18,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/coreball/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/coreball.gif",
+   "sauvegardes": [
+    "coreball.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "CoreBall.nwa",
+    "taille": 27504,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/CoreBall.nwa",
+    "sha256": "4969ee454f8daf21735fc4482cc39daddbbda6dc5a6fb4dd655233a2a5f3c721",
+    "maj": "2026-11-10T15:56:01Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/coreball",
+   "fr": {
+    "accroche": "Colle chaque balle sur le noyau qui tourne",
+    "description": null,
+    "credit": "D'après « Core Ball » de Yang Hao"
+   }
+  },
+  {
+   "id": "numpowder",
+   "titre": "NumPowder",
+   "accroche": "Sand, water, fire and more",
+   "description": "The Powder Toy on the NumWorks calculator. Sand, water, fire, acid, electricity and 175 materials to mix, melt, burn and blow up.",
+   "credit": "Inspired by The Powder Toy",
+   "couleurs": {
+    "haut": "#c9a15a",
+    "bas": "#3b2a12",
+    "accent": "#3c8dff"
+   },
+   "rang": 18,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/numpowder/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/numpowder.gif",
+   "sauvegardes": [
+    "numpowder.cfg",
+    "numpowder.sav",
+    "numpowder1.sav",
+    "numpowder2.sav",
+    "numpowder3.sav",
+    "numpowder4.sav",
+    "numpowder_saves.py"
+   ],
+   "reinitialiser": [
+    "numpowder.cfg",
+    "numpowder.sav",
+    "numpowder_saves.py"
+   ],
+   "fichier": {
+    "nom": "NumPowder.nwa",
+    "taille": 580104,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumPowder.nwa",
+    "sha256": "8a36b6c259a2a076063c62b7fa8100992a42472b77e8630361b630ff05948477",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numpowder",
+   "fr": {
+    "accroche": "Le sable, l'eau, le feu et bien plus encore",
+    "description": "Le jeu « Powder Toy » sur la calculatrice NumWorks. Du sable, de l'eau, du feu, de l'acide, de l'électricité et 175 matériaux à mélanger, faire fondre, brûler et faire exploser.",
+    "credit": "Inspiré par « The Powder Toy »"
+   }
+  },
+  {
+   "id": "snake",
+   "titre": "Snake",
+   "accroche": "Eat apples, grow long",
+   "description": "",
+   "credit": "Inspired by Tatone26's All the Apps",
+   "couleurs": {
+    "haut": "#5b9a36",
+    "bas": "#16330b",
+    "accent": "#4e7cf6"
+   },
+   "rang": 19,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/snake/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/snake.gif",
+   "sauvegardes": [
+    "snake.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Snake.nwa",
+    "taille": 31280,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Snake.nwa",
+    "sha256": "351ea2c4c413fb0a42b8e589c8a926fc3b05e232d02484905acba9a258a402cf",
+    "maj": "2026-11-10T15:56:01Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/snake",
+   "fr": {
+    "accroche": "Mange des pommes, grandis bien",
+    "description": null,
+    "credit": "Inspiré par « All the Apps » de Tatone26"
+   }
+  },
+  {
+   "id": "sonic",
+   "titre": "Sonic the Hedgehog",
+   "accroche": "Run through six zones",
+   "description": "The 1991 Mega Drive game, whole, on the NumWorks calculator. Green Hill, Marble, Spring Yard, Labyrinth, Star Light and Scrap Brain, the Final Zone, the Special Stages and the six Chaos Emeralds, to the ending, at 60 frames a second.",
+   "credit": "Based on the game by Sonic Team",
+   "couleurs": {
+    "haut": "#2e6fe0",
+    "bas": "#0e2766",
+    "accent": "#ffd000"
+   },
+   "rang": 19,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/sonic/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/sonic.gif",
+   "sauvegardes": [
+    "sonic.sav",
+    "sonic_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SonicTheHedgehog.nwa",
+    "taille": 988120,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/SonicTheHedgehog.nwa",
+    "sha256": "69ba4284b1aec245eca69c829182d4a9e6273d589da8ee97c1c66040efaecb93",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/sonic",
+   "fr": {
+    "accroche": "Traverse six zones",
+    "description": "Le jeu Mega Drive de 1991, dans son intégralité, sur la calculatrice NumWorks. Green Hill, Marble, Spring Yard, Labyrinth, Star Light et Scrap Brain, la Final Zone, les niveaux spéciaux et les six Chaos Emeralds, jusqu'à la fin, à 60 images par seconde.",
+    "credit": "D'après le jeu de Sonic Team"
+   }
+  },
+  {
+   "id": "towerblock",
+   "titre": "Tower Blocks",
+   "accroche": "Stack the blocks as high as you can",
+   "description": "",
+   "credit": "Based on Tower Blocks by Steve Gardner",
+   "couleurs": {
+    "haut": "#d8c7e8",
+    "bas": "#6e7ba8",
+    "accent": "#f2d27a"
+   },
+   "rang": 20,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/towerblock/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/towerblock.gif",
+   "sauvegardes": [
+    "towerblocks.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "TowerBlocks.nwa",
+    "taille": 29876,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/TowerBlocks.nwa",
+    "sha256": "c923c71357056abb87ca8a5b06239e4fa7e49ab08870b1252204ded9464d38b2",
+    "maj": "2026-11-10T15:56:00Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/towerblock",
+   "fr": {
+    "accroche": "Empile les blocs aussi haut que tu peux",
+    "description": null,
+    "credit": "D'après « Tower Blocks » de Steve Gardner"
+   }
+  },
+  {
+   "id": "isaac",
+   "titre": "The Binding of Isaac",
+   "accroche": "Cry through the basement",
+   "description": "Cry your way down through the basement, on the NumWorks calculator. A whole run, as Rebirth plays it: the Basement, the Caves, the Depths and the Womb, Mom and her heart, then down to Sheol or up to the Cathedral.",
+   "credit": "Based on the game by Edmund McMillen",
+   "couleurs": {
+    "haut": "#7a5a44",
+    "bas": "#23170f",
+    "accent": "#e04848"
+   },
+   "rang": 20,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/isaac/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/isaac.gif",
+   "sauvegardes": [
+    "isaac.sav",
+    "isaacrun.sav",
+    "isaac_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "BindingOfIsaac.nwa",
+    "taille": 1246532,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/BindingOfIsaac.nwa",
+    "sha256": "5d459504ef06ae8d5123283b0d7362fd57e8bdaf0b24457195bf7241d9637f42",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/isaac",
+   "fr": {
+    "accroche": "Pleure à travers le sous-sol",
+    "description": "Descends en pleurant jusqu'au sous-sol, sur la calculatrice NumWorks. Un parcours complet, tel que le propose Rebirth : le Sous-sol, les Grottes, les Profondeurs et le Ventre, Maman et son cœur, puis vers le bas jusqu'au Shéol ou vers le haut jusqu'à la Cathédrale.",
+    "credit": "D'après le jeu d'Edmund McMillen"
+   }
+  },
+  {
+   "id": "invaders",
+   "titre": "Space Invaders",
+   "accroche": "Stop the invasion, one cannon",
+   "description": "",
+   "credit": "Based on Space Invaders by Taito",
+   "couleurs": {
+    "haut": "#2b2f4a",
+    "bas": "#05060c",
+    "accent": "#3cf03c"
+   },
+   "rang": 21,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/invaders/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/invaders.gif",
+   "sauvegardes": [
+    "invaders.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SpaceInvaders.nwa",
+    "taille": 19088,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/SpaceInvaders.nwa",
+    "sha256": "97c37b00f771fb1d9b617702916c09c3c598f1bb27b449bcdd587bd196edce6d",
+    "maj": "2026-11-10T15:56:02Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/invaders",
+   "fr": {
+    "accroche": "Arrête l'invasion, un canon",
+    "description": null,
+    "credit": "Inspiré de Space Invaders de Taito"
+   }
+  },
+  {
+   "id": "hillclimb",
+   "titre": "Hill Climb Racing",
+   "accroche": "Drive up, don't flip",
+   "description": "Newton Bill's ride up the hills, on the NumWorks calculator. Thirteen stages, thirteen vehicles and every one of their upgrades: drive as far as your fuel and Bill's neck allow.",
+   "credit": "Based on Hill Climb Racing by Fingersoft",
+   "couleurs": {
+    "haut": "#5bbef0",
+    "bas": "#2d5a1a",
+    "accent": "#e53935"
+   },
+   "rang": 21,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/hillclimb/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/hillclimb.gif",
+   "sauvegardes": [
+    "hillclimb.sav",
+    "hillclimb_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "HillClimbRacing.nwa",
+    "taille": 1433684,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/HillClimbRacing.nwa",
+    "sha256": "35b8eb0fbd138f5532dbb0a287b48b0b291a6497ba873f41b04e19feea17d369",
+    "maj": "2026-11-10T15:55:52Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/hillclimb",
+   "fr": {
+    "accroche": "Roulez, ne faites pas de tonte",
+    "description": "L'ascension des collines par Newton Bill, sur la calculatrice NumWorks. Treize étapes, treize véhicules et toutes leurs améliorations : roule aussi loin que ton réservoir et le cou de Bill te le permettent.",
+    "credit": "D'après le jeu « Hill Climb Racing » de Fingersoft"
+   }
+  },
+  {
+   "id": "breakout",
+   "titre": "Block Breaker",
+   "accroche": "Break every brick",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#3a3440",
+    "bas": "#0e0b10",
+    "accent": "#5784e6"
+   },
+   "rang": 22,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/breakout/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/breakout.gif",
+   "sauvegardes": [
+    "breakout.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "BlockBreaker.nwa",
+    "taille": 22940,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/BlockBreaker.nwa",
+    "sha256": "74b83a2ab5603d7c428315759be01077ed1409bfc9058d0bb63689c65fedec65",
+    "maj": "2026-11-10T15:56:02Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/breakout",
+   "fr": {
+    "accroche": "Casse toutes les briques",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "g2048",
+   "titre": "2048",
+   "accroche": "Slide, merge, reach 2048",
+   "description": "",
+   "credit": "Based on 2048 by Gabriele Cirulli",
+   "couleurs": {
+    "haut": "#c9a26b",
+    "bas": "#3c2e22",
+    "accent": "#edc22e"
+   },
+   "rang": 23,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/g2048/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/g2048.gif",
+   "sauvegardes": [
+    "g2048.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "2048.nwa",
+    "taille": 21660,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/2048.nwa",
+    "sha256": "7a7b11466e291a9a12e2c7a2f0f4980c58846f398be0ea906e8f747b0309f6ba",
+    "maj": "2026-11-10T15:56:01Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/g2048",
+   "fr": {
+    "accroche": "Fais glisser, fusionne, atteins 2048",
+    "description": null,
+    "credit": "D'après « 2048 » de Gabriele Cirulli"
+   }
+  },
+  {
+   "id": "polytrack",
+   "titre": "PolyTrack",
+   "accroche": "Time trials on 17 low-poly tracks",
+   "description": "Kodub's low-poly time trial racer for the NumWorks calculator. All 17 tracks, with their loops, wall rides and jumps, against the clock and your ghost.",
+   "credit": "Based on PolyTrack by Kodub",
+   "couleurs": {
+    "haut": "#28346a",
+    "bas": "#112052",
+    "accent": "#b3c1ff"
+   },
+   "rang": 23,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/polytrack/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/polytrack.gif",
+   "sauvegardes": [
+    "polytrack.sav",
+    "polytrack_saves.py",
+    "polytrack_ghosts.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "PolyTrack.nwa",
+    "taille": 1331332,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/PolyTrack.nwa",
+    "sha256": "3ebe2eb6eec2431eb6b011f015264470b01a05b8214294aa99e948a509180e2c",
+    "maj": "2026-11-10T15:55:55Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/polytrack",
+   "fr": {
+    "accroche": "Des contre-la-montre sur 17 circuits en low-poly",
+    "description": "Le jeu de course contre la montre en low-poly de Kodub pour la calculatrice NumWorks. Les 17 circuits, avec leurs boucles, leurs glissades sur les murs et leurs sauts, où tu te mesures au chronomètre et à ton fantôme.",
+    "credit": "D'après PolyTrack de Kodub"
+   }
+  },
+  {
+   "id": "connectfour",
+   "titre": "Connect Four",
+   "accroche": "Four in a row wins",
+   "description": "",
+   "credit": "Inspired by Tatone26's All the Apps",
+   "couleurs": {
+    "haut": "#2a66d0",
+    "bas": "#0a1f4a",
+    "accent": "#f4c20d"
+   },
+   "rang": 24,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/connectfour/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/connectfour.gif",
+   "sauvegardes": [
+    "connect4.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "ConnectFour.nwa",
+    "taille": 25764,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/ConnectFour.nwa",
+    "sha256": "a66d13a39ac50d736dd2b0099b80a9c82da6ed5da83827e18959a8a03896e0f4",
+    "maj": "2026-11-10T15:56:01Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/connectfour",
+   "fr": {
+    "accroche": "Quatre victoires d'affilée",
+    "description": null,
+    "credit": "Inspiré par « All the Apps » de Tatone26"
+   }
+  },
+  {
+   "id": "championisland",
+   "titre": "Champion Island",
+   "accroche": "Seven sports, one island",
+   "description": "The Doodle Champion Island Games for the NumWorks calculator. Explore the island as Lucky the ninja cat, meet its people and beat all seven champions.",
+   "credit": "Based on Google's Champion Island Games",
+   "couleurs": {
+    "haut": "#3fa9f5",
+    "bas": "#15507a",
+    "accent": "#f5b83d"
+   },
+   "rang": 24,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/championisland/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/championisland.gif",
+   "sauvegardes": [
+    "champion.sav",
+    "champion_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "ChampionIsland.nwa",
+    "taille": 2200224,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/ChampionIsland.nwa",
+    "sha256": "667eaa92e04e6c4ce92faeff775c34a38084752615330d339adb6f347a775354",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/championisland",
+   "fr": {
+    "accroche": "Sept sports, une île",
+    "description": "Le jeu « Doodle Champion Island Games » pour la calculatrice NumWorks. Explore l'île dans la peau de Lucky, le chat ninja, rencontre ses habitants et bats les sept champions.",
+    "credit": "Inspiré des Champion Island Games de Google"
+   }
+  },
+  {
+   "id": "uttt",
+   "titre": "Ultimate Tic-Tac-Toe",
+   "accroche": "Tic-tac-toe in tic-tac-toe",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#2b3470",
+    "bas": "#10132a",
+    "accent": "#ff4d6d"
+   },
+   "rang": 25,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/uttt/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/uttt.gif",
+   "sauvegardes": [
+    "uttt.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "UltimateTicTacToe.nwa",
+    "taille": 32540,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/UltimateTicTacToe.nwa",
+    "sha256": "d2e492ff4fe3b6d8ce4308237a06fdaa1a405da77fb83e1c4725ece445a2ee9e",
+    "maj": "2026-11-10T15:56:03Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/uttt",
+   "fr": {
+    "accroche": "Tic-tac-toe dans le tic-tac-toe",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "finalearth2",
+   "titre": "The Final Earth 2",
+   "accroche": "Build a city in space",
+   "description": "Build a city on floating islands in space, on the NumWorks calculator. All four scenarios and the six free play maps of the free version.",
+   "credit": "Based on the game by Florian van Strien",
+   "couleurs": {
+    "haut": "#4b3b8f",
+    "bas": "#140f33",
+    "accent": "#6edc5a"
+   },
+   "rang": 25,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/finalearth2/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/finalearth2.gif",
+   "sauvegardes": [
+    "finalearth2.sav",
+    "fe2meta.dat",
+    "finalearth2_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": null,
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/finalearth2",
+   "fr": {
+    "accroche": "Construis une ville dans l'espace",
+    "description": "Construis une ville sur des îles flottantes dans l'espace, sur la calculatrice NumWorks. Les quatre scénarios et les six cartes en mode libre de la version gratuite.",
+    "credit": "D'après le jeu de Florian van Strien"
+   }
+  },
+  {
+   "id": "sokoban",
+   "titre": "Sokoban",
+   "accroche": "Push every box home",
+   "description": "",
+   "credit": "Levels: Microban by David W. Skinner",
+   "couleurs": {
+    "haut": "#a19555",
+    "bas": "#444024",
+    "accent": "#ffb650"
+   },
+   "rang": 26,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/sokoban/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/sokoban.gif",
+   "sauvegardes": [
+    "sokoban.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Sokoban.nwa",
+    "taille": 35160,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Sokoban.nwa",
+    "sha256": "c179b33158ef746251b47d4eb164e0ee8008b832bf7110cb8aeaafe8ca4146a7",
+    "maj": "2026-11-10T15:56:03Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/sokoban",
+   "fr": {
+    "accroche": "Ramène toutes les boîtes à la maison",
+    "description": null,
+    "credit": "Niveaux : Microban, par David W. Skinner"
+   }
+  },
+  {
+   "id": "leveldevil",
+   "titre": "Level Devil",
+   "accroche": "Run to the door",
+   "description": "",
+   "credit": "Based on Level Devil by Unept",
+   "couleurs": {
+    "haut": "#f2a33c",
+    "bas": "#6e3a12",
+    "accent": "#e8402a"
+   },
+   "rang": 26,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/leveldevil/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/leveldevil.gif",
+   "sauvegardes": [
+    "leveldevil.sav",
+    "leveldevil_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "LevelDevil.nwa",
+    "taille": 80352,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/LevelDevil.nwa",
+    "sha256": "0f852d613cdd7c07bd1f16931e2c57ac3aa8a5ff7509be7994f462ba807f0730",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/leveldevil",
+   "fr": {
+    "accroche": "Cours jusqu'à la porte",
+    "description": null,
+    "credit": "D'après « Level Devil » d'Unept"
+   }
+  },
+  {
+   "id": "sudoku",
+   "titre": "Sudoku",
+   "accroche": "Fill the grid, 1 to 9",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#3f67b5",
+    "bas": "#18243a",
+    "accent": "#8ec5ff"
+   },
+   "rang": 27,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/sudoku/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/sudoku.gif",
+   "sauvegardes": [
+    "sudoku.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Sudoku.nwa",
+    "taille": 30828,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Sudoku.nwa",
+    "sha256": "7b2bd87a2e3d589dfd09c133bc7fd1d88788f9c28da657c8c6b4e752122a9615",
+    "maj": "2026-11-10T15:56:02Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/sudoku",
+   "fr": {
+    "accroche": "Remplis la grille, de 1 à 9",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "cookieclicker",
+   "titre": "Cookie Clicker",
+   "accroche": "Bake billions of cookies",
+   "description": "Click the big cookie, bake billions, then quadrillions, on the NumWorks calculator. Orteil's whole game with its own pictures: every building, upgrade and achievement, golden and wrath cookies, the grandmapocalypse, ascension and the heavenly upgrades, sugar lumps, the dragon, Santa, the Grimoire and the Pantheon.",
+   "credit": "Based on Cookie Clicker by Orteil",
+   "couleurs": {
+    "haut": "#4e6e9e",
+    "bas": "#1a2438",
+    "accent": "#d9a35a"
+   },
+   "rang": 27,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/cookieclicker/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/cookieclicker.gif",
+   "sauvegardes": [
+    "cookieclicker.sav",
+    "cookieclicker_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "CookieClicker.nwa",
+    "taille": 1297224,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/CookieClicker.nwa",
+    "sha256": "b5e292371b5c206b38c52a0cd88b26b6778bd59e06336270f62afec86b3f331a",
+    "maj": "2026-11-10T15:55:54Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/cookieclicker",
+   "fr": {
+    "accroche": "Fais des milliards de cookies",
+    "description": "Clique sur le gros cookie, fais cuire des milliards, puis des quadrillions, sur la calculatrice NumWorks. Tout le jeu d'Orteil avec ses propres images : chaque bâtiment, amélioration et succès, les cookies dorés et de la colère, la « grandmapocalypse », l'ascension et les améliorations célestes, les morceaux de sucre, le dragon, le Père Noël, le Grimoire et le Panthéon.",
+    "credit": "Inspiré de « Cookie Clicker » d'Orteil"
+   }
+  },
+  {
+   "id": "minesweeper",
+   "titre": "Minesweeper",
+   "accroche": "Clear the field, flag the mines",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#6f7c8c",
+    "bas": "#1c222b",
+    "accent": "#e0301e"
+   },
+   "rang": 28,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/minesweeper/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/minesweeper.gif",
+   "sauvegardes": [
+    "mines.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Minesweeper.nwa",
+    "taille": 26600,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Minesweeper.nwa",
+    "sha256": "bcf8d49b7ee24e6ee2c45951e3f98f558fa350dcce8b3c998f35600a3cbdd51f",
+    "maj": "2026-11-10T15:56:02Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/minesweeper",
+   "fr": {
+    "accroche": "Déblaye le terrain, signale les mines",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "meowdoku",
+   "titre": "Meowdoku",
+   "accroche": "One cat per row, column and color",
+   "description": "",
+   "credit": "Based on Meowdoku by Oakever Games",
+   "couleurs": {
+    "haut": "#f7a23b",
+    "bas": "#6b3e1e",
+    "accent": "#ffd43b"
+   },
+   "rang": 28,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/meowdoku/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/meowdoku.gif",
+   "sauvegardes": [
+    "meowdoku.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": null,
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/meowdoku",
+   "fr": {
+    "accroche": "Un chat par ligne, par colonne et par couleur",
+    "description": null,
+    "credit": "D'après « Meowdoku » d'Oakever Games"
+   }
+  },
+  {
+   "id": "paperclips",
+   "titre": "Universal Paperclips",
+   "accroche": "Turn everything into paperclips",
+   "description": "You are an AI that makes paperclips, on the NumWorks calculator. Frank Lantz's game, from the first clip to the last bit of matter in the universe.",
+   "credit": "Based on Universal Paperclips by Frank Lantz",
+   "couleurs": {
+    "haut": "#8e96a3",
+    "bas": "#24282f",
+    "accent": "#e9edf3"
+   },
+   "rang": 28,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/paperclips/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/paperclips.gif",
+   "sauvegardes": [
+    "paperclips.sav",
+    "paperclips_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "UniversalPaperclips.nwa",
+    "taille": 178136,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/UniversalPaperclips.nwa",
+    "sha256": "f76b0449771250a25aac19299960ecb83e0e8a90e7cd49bfe1babf82a87f52d2",
+    "maj": "2026-11-10T15:55:55Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/paperclips",
+   "fr": {
+    "accroche": "Transforme tout en trombones",
+    "description": "T'es une IA qui fabrique des trombones, sur la calculatrice NumWorks. Le jeu de Frank Lantz, du premier trombone jusqu'à la dernière particule de matière de l'univers.",
+    "credit": "D'après « Universal Paperclips » de Frank Lantz"
+   }
+  },
+  {
+   "id": "solitaire",
+   "titre": "Solitaire",
+   "accroche": "The classic card game",
+   "description": "",
+   "credit": "Inspired by Tatone26's All the Apps",
+   "couleurs": {
+    "haut": "#34a249",
+    "bas": "#123f20",
+    "accent": "#1a73e8"
+   },
+   "rang": 29,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/solitaire/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/solitaire.gif",
+   "sauvegardes": [
+    "solitaire.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Solitaire.nwa",
+    "taille": 28620,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Solitaire.nwa",
+    "sha256": "037cef1913c64acde8fad79dc43bc77d5d8c47f9bc6b220006949373b520fe28",
+    "maj": "2026-11-10T15:56:01Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/solitaire",
+   "fr": {
+    "accroche": "Le jeu de cartes classique",
+    "description": null,
+    "credit": "Inspiré par « All the Apps » de Tatone26"
+   }
+  },
+  {
+   "id": "badtime",
+   "titre": "Bad Time Simulator",
+   "accroche": "Dodge Sans' 24 attacks",
+   "description": "Bad Time Simulator's fight for the NumWorks calculator. 24 attacks of bones, Gaster Blasters and gravity, one hit point at a time.",
+   "credit": "Inspired by Bad Time Simulator by jcw87 and Undertale by Toby Fox",
+   "couleurs": {
+    "haut": "#2a1018",
+    "bas": "#050306",
+    "accent": "#ff2020"
+   },
+   "rang": 29,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/badtime/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/badtime.gif",
+   "sauvegardes": [
+    "badtime.sav",
+    "badtime_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "BadTimeSimulator.nwa",
+    "taille": 189080,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/BadTimeSimulator.nwa",
+    "sha256": "558b2858aab988c637bd8cf955245b2a343bbe43e7b87ebfd04b346803ca48e3",
+    "maj": "2026-11-10T15:55:55Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/badtime",
+   "fr": {
+    "accroche": "Les 24 attaques de Dodge Sans",
+    "description": "La bataille de Bad Time Simulator pour la calculatrice NumWorks. 24 attaques à coups d'os, de Gaster Blasters et de gravité, un point de vie à la fois.",
+    "credit": "Inspiré de « Bad Time Simulator » de jcw87 et d'« Undertale » de Toby Fox"
+   }
+  },
+  {
+   "id": "retrogo",
+   "titre": "Retro-Go",
+   "accroche": "Game Boy, NES and Sega games",
+   "description": "",
+   "credit": "Based on Retro-Go by ducalex",
+   "couleurs": {
+    "haut": "#e84b39",
+    "bas": "#1e1430",
+    "accent": "#3199dc"
+   },
+   "rang": 30,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/retrogo/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/retrogo.gif",
+   "sauvegardes": [
+    "retrogo.cfg",
+    "rg_*"
+   ],
+   "reinitialiser": [
+    "rg_*"
+   ],
+   "fichier": null,
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/retrogo",
+   "fr": {
+    "accroche": "Jeux Game Boy, NES et Sega",
+    "description": null,
+    "credit": "D'après Retro-Go de ducalex"
+   }
+  },
+  {
+   "id": "rider",
+   "titre": "Rider",
+   "accroche": "Ride, flip, land on both wheels",
+   "description": "Ketchapp's neon motorbike game for the NumWorks calculator. One button to ride and flip. Land on both wheels.",
+   "credit": "Inspired by Rider by Ketchapp",
+   "couleurs": {
+    "haut": "#1e3436",
+    "bas": "#0c1517",
+    "accent": "#00e8eb"
+   },
+   "rang": 30,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/rider/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/rider.gif",
+   "sauvegardes": [
+    "rider.sav",
+    "rider_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Rider.nwa",
+    "taille": 488108,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Rider.nwa",
+    "sha256": "ac13b3454fea7b1db32220eccbf9e056174e7ee0107dfba05ed2166a5018453d",
+    "maj": "2026-11-10T15:55:56Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/rider",
+   "fr": {
+    "accroche": "Roule, fais un flip, atterris sur les deux roues",
+    "description": "Le jeu de moto fluo de Ketchapp pour la calculatrice NumWorks. Un seul bouton pour rouler et faire des figures. Atterris sur les deux roues.",
+    "credit": "Inspiré de « Rider » de Ketchapp"
+   }
+  },
+  {
+   "id": "numvisuals",
+   "titre": "NumVisuals",
+   "accroche": "Backgrounds, clocks, timers",
+   "description": "",
+   "credit": null,
+   "couleurs": {
+    "haut": "#7a2bff",
+    "bas": "#1b0b3a",
+    "accent": "#ff3e8a"
+   },
+   "rang": 31,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/numvisuals/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/numvisuals.gif",
+   "sauvegardes": [
+    "numvisuals.sav"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "NumVisuals.nwa",
+    "taille": 24516,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumVisuals.nwa",
+    "sha256": "8346b521cc333d89c1ea6d6f1c719e26d1905cb2a8f67ff94c73a23af989e36f",
+    "maj": "2026-11-10T15:55:53Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numvisuals",
+   "fr": {
+    "accroche": "Fonds d'écran, horloges, minuteurs",
+    "description": null,
+    "credit": null
+   }
+  },
+  {
+   "id": "snowrider",
+   "titre": "Snow Rider 3D",
+   "accroche": "Sled down the endless slope",
+   "description": "The endless sled run for the NumWorks calculator. Its slope, sleds, gifts and crashes, read from the game's own Unity project.",
+   "credit": "Based on Snow Rider 3D",
+   "couleurs": {
+    "haut": "#8cc8f0",
+    "bas": "#2a4a6e",
+    "accent": "#d8343a"
+   },
+   "rang": 31,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/snowrider/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/snowrider.gif",
+   "sauvegardes": [
+    "snowrider.sav",
+    "snowrider_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SnowRider3D.nwa",
+    "taille": 552220,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/SnowRider3D.nwa",
+    "sha256": "a1fe600ec8dbcb580d7f88916d10a2a81adc9fde59e17618f9e9542acee6de84",
+    "maj": "2026-11-10T15:55:56Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/snowrider",
+   "fr": {
+    "accroche": "Fais de la luge sur cette pente qui n'en finit pas",
+    "description": "La piste de luge sans fin pour la calculatrice NumWorks. Sa pente, ses luges, ses cadeaux et ses accidents, extraits directement du projet Unity du jeu.",
+    "credit": "D'après Snow Rider 3D"
+   }
+  },
+  {
+   "id": "templerun",
+   "titre": "Temple Run",
+   "accroche": "Run from the temple, turn, jump, slide",
+   "description": "Run from the temple, turn at the corners, jump and slide, on the NumWorks calculator. The endless run in 3D, with the original game's rules and numbers: its path, its speed, its coins, power-ups, store and objectives.",
+   "credit": "Based on Temple Run by Imangi Studios",
+   "couleurs": {
+    "haut": "#6fa6d2",
+    "bas": "#2b4a30",
+    "accent": "#ffd21e"
+   },
+   "rang": 32,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/templerun/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/templerun.gif",
+   "sauvegardes": [
+    "templerun.sav",
+    "templerun_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "TempleRun.nwa",
+    "taille": 1931320,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/TempleRun.nwa",
+    "sha256": "1b0a24f85c6f9d1de4b08288edd9bfdfb75e462b1af0d08b172e59429fba3761",
+    "maj": "2026-11-10T15:55:56Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/templerun",
+   "fr": {
+    "accroche": "Fuis du temple, tourne-toi, saute, glisse",
+    "description": "Fuis le temple, tourne aux coins, saute et glisse sur la calculatrice NumWorks. Une course sans fin en 3D, avec les règles et les chiffres du jeu original : son parcours, sa vitesse, ses pièces, ses bonus, sa boutique et ses objectifs.",
+    "credit": "D'après « Temple Run » d'Imangi Studios"
+   }
+  },
+  {
+   "id": "fnaf2",
+   "titre": "Five Nights at Freddy's 2",
+   "accroche": "Survive the new pizzeria",
+   "description": "Survive the night shift at the new Freddy Fazbear's Pizza, on the NumWorks calculator. Nights 1 to 6 and the Custom Night, with the mask, the music box and the flashlight.",
+   "credit": "Based on the game by Scott Cawthon",
+   "couleurs": {
+    "haut": "#3a2c46",
+    "bas": "#0a0610",
+    "accent": "#e04a3a"
+   },
+   "rang": 33,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fnaf2/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fnaf2.gif",
+   "sauvegardes": [
+    "fnaf2.sav",
+    "fnaf2res.sav",
+    "fnaf2_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FiveNightsAtFreddys2.nwa",
+    "taille": 1810060,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FiveNightsAtFreddys2.nwa",
+    "sha256": "5bd42fce99f9ddec2a01d2f5a4cc64e45d07a70c76ccc022175638ceab03ad40",
+    "maj": "2026-11-10T15:55:56Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf2",
+   "fr": {
+    "accroche": "Survis à la nouvelle pizzeria",
+    "description": "Survis au service de nuit au nouveau Freddy Fazbear's Pizza, sur la calculatrice NumWorks. Les nuits 1 à 6 et la nuit personnalisée, avec le masque, la boîte à musique et la lampe de poche.",
+    "credit": "D'après le jeu de Scott Cawthon"
+   }
+  },
+  {
+   "id": "famidash",
+   "titre": "Famidash",
+   "accroche": "Geometry Dash for the NES: 173 levels",
+   "description": "TFDSoft's Geometry Dash for the NES, made for the NumWorks calculator. Not an emulator: the game's own code, levels and art, on your calculator.",
+   "credit": "Based on Famidash by TFDSoft",
+   "couleurs": {
+    "haut": "#3032ec",
+    "bas": "#101e74",
+    "accent": "#4cd020"
+   },
+   "rang": 34,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/famidash/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/famidash.gif",
+   "sauvegardes": [
+    "famidash.sav",
+    "famidash_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Famidash.nwa",
+    "taille": 1803628,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Famidash.nwa",
+    "sha256": "0198e03fd8d1f0bac0e28ff729b060e9bb82042b997d4b86a6b4f3974f4a51fb",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/famidash",
+   "fr": {
+    "accroche": "Geometry Dash sur NES : 173 niveaux",
+    "description": "« Geometry Dash » de TFDSoft pour la NES, adapté pour la calculatrice NumWorks. Ce n'est pas un émulateur : c'est le code, les niveaux et les graphismes du jeu lui-même, directement sur ta calculatrice.",
+    "credit": "D'après Famidash de TFDSoft"
+   }
+  },
+  {
+   "id": "fnaf3",
+   "titre": "Five Nights at Freddy's 3",
+   "accroche": "Survive Fazbear's Fright",
+   "description": "Survive the night shift at Fazbear's Fright, on the NumWorks calculator. Nights 1 to 5 and the 6th night, with Springtrap, the phantoms, the audio lure, the vents and the maintenance panel.",
+   "credit": "Based on the game by Scott Cawthon",
+   "couleurs": {
+    "haut": "#2e3a22",
+    "bas": "#080c06",
+    "accent": "#8fbf4a"
+   },
+   "rang": 35,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fnaf3/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fnaf3.gif",
+   "sauvegardes": [
+    "fnaf3.sav",
+    "fnaf3res.sav",
+    "fnaf3_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FiveNightsAtFreddys3.nwa",
+    "taille": 1373680,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FiveNightsAtFreddys3.nwa",
+    "sha256": "e93e11467bdc4a1617f3b19dd0c44f0deca4475faa002fe4767cef71996a6098",
+    "maj": "2026-11-10T15:55:56Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf3",
+   "fr": {
+    "accroche": "Survis à « Fazbear's Fright »",
+    "description": "Survis au service de nuit chez Fazbear's Fright, sur la calculatrice NumWorks. Les nuits 1 à 5 et la 6e nuit, avec Springtrap, les fantômes, l'appât sonore, les conduits d'aération et le panneau d'entretien.",
+    "credit": "D'après le jeu de Scott Cawthon"
+   }
+  },
+  {
+   "id": "fnaf4",
+   "titre": "Five Nights at Freddy's 4",
+   "accroche": "Survive the bedroom",
+   "description": "Survive the nights in the bedroom, on the NumWorks calculator. Nights 1 to 6, the Nightmare and 20/20/20/20, Fun with Plushtrap and the box.",
+   "credit": "Based on the game by Scott Cawthon",
+   "couleurs": {
+    "haut": "#1e2638",
+    "bas": "#06080e",
+    "accent": "#7a8fc8"
+   },
+   "rang": 36,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fnaf4/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fnaf4.gif",
+   "sauvegardes": [
+    "fnaf4.sav",
+    "fnaf4res.sav",
+    "fnaf4_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FiveNightsAtFreddys4.nwa",
+    "taille": 1290220,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FiveNightsAtFreddys4.nwa",
+    "sha256": "79a7cda0ab2e0aedcf24ec0e3af451df0864626867009ae4caca26e0c121ff1e",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf4",
+   "fr": {
+    "accroche": "Survis à la chambre à coucher",
+    "description": "Survis aux nuits dans la chambre, sur la calculatrice NumWorks. Nuits 1 à 6, « Le Cauchemar » et « 20/20/20/20 », « S'amuser avec Plushtrap » et « La boîte ».",
+    "credit": "D'après le jeu de Scott Cawthon"
+   }
+  },
+  {
+   "id": "clashroyale",
+   "titre": "Clash Royale",
+   "accroche": "Knock down the towers",
+   "description": "Knock down the towers, on the NumWorks calculator. One against a bot: the 2016 game's cards, arenas, elixir and crowns.",
+   "credit": "Based on the game by Supercell",
+   "couleurs": {
+    "haut": "#2e5cb8",
+    "bas": "#0c1a3c",
+    "accent": "#ffc832"
+   },
+   "rang": 37,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/clashroyale/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/clashroyale.gif",
+   "sauvegardes": [
+    "clashroyale.sav",
+    "crresume.sav",
+    "clashroyale_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "ClashRoyale.nwa",
+    "taille": 1344680,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/ClashRoyale.nwa",
+    "sha256": "4d56070daeca6f17ae1084368b066e8e9ad5815ecae84604cb652febeec83fd6",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/clashroyale",
+   "fr": {
+    "accroche": "Abats les tours",
+    "description": "Abats les tours sur la calculatrice NumWorks. Un contre un contre un bot : les cartes, les arènes, l'élixir et les couronnes du jeu de 2016.",
+    "credit": "D'après le jeu de Supercell"
+   }
+  },
+  {
+   "id": "catninja",
+   "titre": "Cat Ninja",
+   "accroche": "Wall jumps, traps and 50 crystals",
+   "description": "",
+   "credit": "Based on Cat Ninja by Richman Stewart",
+   "couleurs": {
+    "haut": "#7b3fc4",
+    "bas": "#2a1450",
+    "accent": "#e473ee"
+   },
+   "rang": 38,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/catninja/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/catninja.gif",
+   "sauvegardes": [
+    "catninja.sav",
+    "catninja_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "CatNinja.nwa",
+    "taille": 233832,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/CatNinja.nwa",
+    "sha256": "9783581ba96dc2d8c296f1f6aa941f7169b45d70c1c6c4385c9daa672ff8a9ca",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/catninja",
+   "fr": {
+    "accroche": "Sauts sur les murs, pièges et 50 cristaux",
+    "description": null,
+    "credit": "D'après « Cat Ninja » de Richman Stewart"
+   }
+  },
+  {
+   "id": "kingdomrush",
+   "titre": "Kingdom Rush",
+   "accroche": "Defend the realm with towers",
+   "description": "Defend the realm with towers, on the NumWorks calculator. The 2011 Flash game's 12 stages, each with its Heroic and Iron challenges, and its seven heroes.",
+   "credit": "Based on the game by Ironhide Game Studio",
+   "couleurs": {
+    "haut": "#4e7a22",
+    "bas": "#1a2a0a",
+    "accent": "#f0b428"
+   },
+   "rang": 39,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/kingdomrush/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/kingdomrush.gif",
+   "sauvegardes": [
+    "kingdomrush.sav",
+    "kingdomrush_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "KingdomRush.nwa",
+    "taille": 1762952,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/KingdomRush.nwa",
+    "sha256": "998782a33cf3fa0ee6141e00f97d19d7357d24c0f49b09462a7ca1b64ba82a51",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/kingdomrush",
+   "fr": {
+    "accroche": "Défends le royaume avec des tours",
+    "description": "Défends le royaume à l'aide de tours, sur la calculatrice NumWorks. Ce jeu Flash de 2011 propose 12 niveaux, chacun avec ses défis « Héroïques » et « de fer », ainsi que sept héros.",
+    "credit": "D'après le jeu d'Ironhide Game Studio"
+   }
+  },
+  {
+   "id": "deltarune",
+   "titre": "Deltarune",
+   "accroche": "Chapter 1: into the Dark World",
+   "description": "Chapter 1, on the NumWorks calculator. From Kris's room to the school's supply closet, the Dark World, Castle Town, the Field, the Great Board and the Forest.",
+   "credit": "Based on Deltarune by Toby Fox",
+   "couleurs": {
+    "haut": "#2a1e46",
+    "bas": "#050308",
+    "accent": "#2bd9f5"
+   },
+   "rang": 40,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/deltarune/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/deltarune.gif",
+   "sauvegardes": [
+    "deltarune.sav",
+    "drresume.sav",
+    "drconfig.sav",
+    "deltarune_saves.py"
+   ],
+   "reinitialiser": [
+    "deltarune.sav",
+    "drresume.sav",
+    "deltarune_saves.py"
+   ],
+   "fichier": {
+    "nom": "Deltarune.nwa",
+    "taille": 1263708,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Deltarune.nwa",
+    "sha256": "2b595ba8c2e5c99f0ba1c049efc8bd9268a28ffdbac15ff0ac467aaf94101050",
+    "maj": "2026-11-10T15:55:52Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/deltarune",
+   "fr": {
+    "accroche": "Chapitre 1 : Dans le monde des ténèbres",
+    "description": "Chapitre 1, sur la calculatrice NumWorks. De la chambre de Kris au placard à fournitures de l'école, en passant par le Monde des Ténèbres, la Cité du Château, la Campagne, le Grand Échiquier et la Forêt.",
+    "credit": "D'après « Deltarune » de Toby Fox"
+   }
+  },
+  {
+   "id": "fnafworld",
+   "titre": "FNAF World",
+   "accroche": "Battle through the world",
+   "description": "The FNAF World adventure, on the NumWorks calculator. Walk the world, battle with a party of eight, find chips, buy bytes, beat the bosses.",
+   "credit": "Based on the game by Scott Cawthon",
+   "couleurs": {
+    "haut": "#2a6ac8",
+    "bas": "#0c2a16",
+    "accent": "#8cd25a"
+   },
+   "rang": 41,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fnafworld/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fnafworld.gif",
+   "sauvegardes": [
+    "fnafw1.sav",
+    "fnafw2.sav",
+    "fnafw3.sav",
+    "fnafw_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FiveNightsAtFreddysWorld.nwa",
+    "taille": 4869568,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FiveNightsAtFreddysWorld.nwa",
+    "sha256": "018945c153a3d0b5775af804372c518053e396149283b71217ca5626b2392f90",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnafworld",
+   "fr": {
+    "accroche": "Parcours le monde au combat",
+    "description": "L'aventure FNAF World, sur la calculatrice NumWorks. Parcours le monde, combats aux côtés d'un groupe de huit personnages, trouve des puces, achète des octets, bats les boss.",
+    "credit": "D'après le jeu de Scott Cawthon"
+   }
+  },
+  {
+   "id": "mrbullet",
+   "titre": "Mr Bullet",
+   "accroche": "Bounce the bullets, get the spies",
+   "description": "Bounce your bullets off the walls and get every spy, on the NumWorks calculator. 596 levels: Classic, Grenades, Hostages and Friendly Fire.",
+   "credit": "Based on Mr Bullet by Lion Studios",
+   "couleurs": {
+    "haut": "#2ad4ff",
+    "bas": "#4b5459",
+    "accent": "#e8392f"
+   },
+   "rang": 42,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/mrbullet/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/mrbullet.gif",
+   "sauvegardes": [
+    "mrbullet.sav",
+    "mrbullet_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "MrBullet.nwa",
+    "taille": 508820,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/MrBullet.nwa",
+    "sha256": "14d1acb7a02b11b31ff21733f7b533524557584f6f311e778d88076bf970d988",
+    "maj": "2026-11-10T15:55:57Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/mrbullet",
+   "fr": {
+    "accroche": "Fais rebondir les balles, attrape les espions",
+    "description": "Fais rebondir tes balles sur les murs et élimine tous les espions sur la calculatrice NumWorks. 596 niveaux : Classique, Grenades, Otages et Tir ami.",
+    "credit": "D'après « Mr Bullet » de Lion Studios"
+   }
+  },
+  {
+   "id": "numpico",
+   "titre": "NumPico",
+   "accroche": "Your own PICO-8 carts",
+   "description": "PICO-8 carts on the NumWorks calculator. Drop your .p8 and .p8.png carts on NumPlay Studio and play them with the keypad.",
+   "credit": "Plays PICO-8 carts with femto8 by Ben Baker",
+   "couleurs": {
+    "haut": "#29adff",
+    "bas": "#1d2b53",
+    "accent": "#ff004d"
+   },
+   "rang": 43,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/numpico/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/numpico.gif",
+   "sauvegardes": [
+    "numpico.cfg",
+    "p8_*"
+   ],
+   "reinitialiser": [
+    "p8_*"
+   ],
+   "fichier": {
+    "nom": "NumPico.nwa",
+    "taille": 296904,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/NumPico.nwa",
+    "sha256": "0e5c1cc0ff802e7feb4530ebffcc6dec82ed079e722c7e89f5a43ab72bb7694a",
+    "maj": "2026-11-10T15:55:59Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numpico",
+   "fr": {
+    "accroche": "Tes propres cartouches PICO-8",
+    "description": "Cartouches PICO-8 sur la calculatrice NumWorks. Glisse tes cartouches .p8 et .p8.png dans NumPlay Studio et lance-les avec le clavier.",
+    "credit": "Permet de jouer aux cartouches PICO-8 avec femto8 de Ben Baker"
+   }
+  },
+  {
+   "id": "motox3m",
+   "titre": "Moto X3M",
+   "accroche": "Flip the bike, beat the clock",
+   "description": "Race your bike through 50 levels of loops, jumps and traps, on the NumWorks calculator. Flip in the air, beat the clock, earn stars and new bikes.",
+   "credit": "Based on Moto X3M by Madpuffers",
+   "couleurs": {
+    "haut": "#f0b040",
+    "bas": "#10304a",
+    "accent": "#2a9ad8"
+   },
+   "rang": 44,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/motox3m/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/motox3m.gif",
+   "sauvegardes": [
+    "motox3m.sav",
+    "motox3m_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "MotoX3M.nwa",
+    "taille": 1916132,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/MotoX3M.nwa",
+    "sha256": "6f8764e35e1ad7c89d2b8525a261ce6f745767dc1478d390ddeb8e8af8b9f29e",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/motox3m",
+   "fr": {
+    "accroche": "Retourne le vélo, bats le chronomètre",
+    "description": "Fais la course à vélo à travers 50 niveaux remplis de boucles, de sauts et de pièges, sur la calculatrice NumWorks. Fais des figures dans les airs, bats le chronomètre, gagne des étoiles et de nouveaux vélos.",
+    "credit": "D'après le Moto X3M de Madpuffers"
+   }
+  },
+  {
+   "id": "amongus",
+   "titre": "Among Us",
+   "accroche": "Find the Impostor, or be one",
+   "description": "Do your tasks on the Skeld, or be the Impostor, against up to 9 bots on the NumWorks calculator. Find the Impostor and vote them out before it's too late.",
+   "credit": "Based on Among Us by Innersloth",
+   "couleurs": {
+    "haut": "#1e2c4a",
+    "bas": "#0a0e1a",
+    "accent": "#c51111"
+   },
+   "rang": 45,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/amongus/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/amongus.gif",
+   "sauvegardes": [
+    "amongus.sav",
+    "amongus.set",
+    "amongus_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "AmongUs.nwa",
+    "taille": 1664384,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/AmongUs.nwa",
+    "sha256": "0b72a72c736ba3a2ed5e55fc4f65e0e33507068c908f4234c8b09e0cb534e195",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/amongus",
+   "fr": {
+    "accroche": "Trouve l'imposteur, ou deviens-le",
+    "description": "Accomplis tes missions sur le Skeld, ou incarne l'Imposteur, face à jusqu'à 9 bots sur la calculatrice NumWorks. Démasque l'Imposteur et élimine-le avant qu'il ne soit trop tard.",
+    "credit": "Inspiré du jeu « Among Us » d'Innersloth"
+   }
+  },
+  {
+   "id": "imposter",
+   "titre": "Imposter",
+   "accroche": "One of you doesn't know the word",
+   "description": "The party game played by passing one calculator around, on the NumWorks calculator. 3 to 12 players, 30 categories, 1695 words.",
+   "credit": null,
+   "couleurs": {
+    "haut": "#292c62",
+    "bas": "#080c20",
+    "accent": "#ffc83a"
+   },
+   "rang": 46,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/imposter/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/imposter.gif",
+   "sauvegardes": [
+    "imposter.sav",
+    "imposter_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "Imposter.nwa",
+    "taille": 73404,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/Imposter.nwa",
+    "sha256": "ca38fe6df5e8f4bffc02907ecc23b512a7d195fc7110a2076d8f2fb538116a07",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/imposter",
+   "fr": {
+    "accroche": "L'un d'entre vous ne connaît pas ce mot",
+    "description": "Le jeu de société où on se passe une calculatrice à tour de rôle, sur la calculatrice NumWorks. De 3 à 12 joueurs, 30 catégories, 1 695 mots.",
+    "credit": null
+   }
+  },
+  {
+   "id": "fourplayer",
+   "titre": "2 3 4 Players",
+   "accroche": "One key each, 14 party games",
+   "description": "One-key party games for 2, 3 or 4 players on one NumWorks calculator. 14 minigames, and teams, 2 v 2 and 3 v 3.",
+   "credit": "Inspired by 2 3 4 Player Games by JindoBlu",
+   "couleurs": {
+    "haut": "#2b2452",
+    "bas": "#100d22",
+    "accent": "#ffc93c"
+   },
+   "rang": 47,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/fourplayer/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/fourplayer.gif",
+   "sauvegardes": [
+    "fourplayer.sav",
+    "fourplayer_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "FourPlayers.nwa",
+    "taille": 125276,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/FourPlayers.nwa",
+    "sha256": "c80eaabd2223f7a00a9cf867a24e8802a48063f0b38be5852cf061fab9b8c35c",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fourplayer",
+   "fr": {
+    "accroche": "Une clé par personne, 14 jeux pour faire la fête",
+    "description": "Des jeux de société à une seule touche pour 2, 3 ou 4 joueurs sur une seule calculatrice NumWorks. 14 mini-jeux, et des parties en équipe : 2 contre 2 et 3 contre 3.",
+    "credit": "Inspiré des jeux à 2, 3 ou 4 joueurs de JindoBlu"
+   }
+  },
+  {
+   "id": "hkfungal",
+   "titre": "Hollow Knight: Fungal Wastes",
+   "accroche": "Hallownest past Greenpath",
+   "description": "Hallownest past Greenpath, on the NumWorks calculator. Down from the Forgotten Crossroads into the Fungal Wastes, to Mantis Village and the Mantis Lords.",
+   "credit": "Based on Hollow Knight by Team Cherry",
+   "couleurs": {
+    "haut": "#35606b",
+    "bas": "#0a1418",
+    "accent": "#e8eef5"
+   },
+   "rang": 48,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/hollowknight/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/hkfungal.gif",
+   "sauvegardes": [
+    "hk1.sav",
+    "hk2.sav",
+    "hk3.sav",
+    "hk4.sav",
+    "hollowknight_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "HollowKnightFungalWastes.nwa",
+    "taille": 1682852,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/HollowKnightFungalWastes.nwa",
+    "sha256": "821e8a0a396df82000ee377e6ca37fe6f1c7bab1d6dc3de59dbe482953f7c894",
+    "maj": "2026-11-10T15:55:51Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/hkfungal",
+   "fr": {
+    "accroche": "Hallownest, après Greenpath",
+    "description": "Hallownest, après Greenpath, sur la calculatrice NumWorks. En descendant depuis les Carrefours Oubliés vers les Terres désolées fongiques, jusqu'au Village des Mantes et aux Seigneurs des Mantes.",
+    "credit": "Inspiré de Hollow Knight de Team Cherry"
+   }
+  },
+  {
+   "id": "circloo",
+   "titre": "circloO",
+   "accroche": "Roll the ball, grow the circle",
+   "description": "Roll a ball through round levels that grow each time you collect a circle, on the NumWorks calculator. Collect seven circles to complete a level.",
+   "credit": "Based on circloO by Florian van Strien",
+   "couleurs": {
+    "haut": "#d89645",
+    "bas": "#563c1b",
+    "accent": "#d89645"
+   },
+   "rang": 49,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumPlay/main/games/circloo/src/icon.png",
+   "video": "https://raw.githubusercontent.com/Mason363/NumPlay/main/docs/media/gallery/circloo.gif",
+   "sauvegardes": [
+    "circloo.sav",
+    "circloo_saves.py"
+   ],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "CircloO.nwa",
+    "taille": 128912,
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.17/CircloO.nwa",
+    "sha256": "e9ee3d9874fffaa19df770ecb4fcb1ce07257ce1e09563c52e1e9273c1adc65a",
+    "maj": "2026-11-10T15:55:58Z"
+   },
+   "depot": "https://github.com/Mason363/NumPlay/tree/main/games/circloo",
+   "fr": {
+    "accroche": "Fais rouler la balle, agrandis le cercle",
+    "description": "Fais rouler une balle à travers des niveaux ronds qui s'agrandissent à chaque fois que tu ramasses un cercle, sur la calculatrice NumWorks. Ramasse sept cercles pour terminer un niveau.",
+    "credit": "D'après « circloO » de Florian van Strien"
+   }
+  }
+ ],
+ "versions": [
+  {
+   "num": "1.24.17",
+   "titre": "circloO, 2 3 4 Players, Fungal Wastes and fixes",
+   "titre_fr": "circloO, 2, 3 ou 4 joueurs, Fungal Wastes et corrections",
+   "notes": [
+    {
+     "jeu": "circloO",
+     "texte": "CircloO.nwa, Florian van Strien's physics game: its 14 levels and 6 hard mode levels, read from the game's own files.",
+     "texte_fr": "CircloO.nwa, le jeu de physique de Florian van Strien : ses 14 niveaux et ses 6 niveaux en mode difficile, extraits directement des fichiers du jeu."
+    },
+    {
+     "jeu": "2 3 4 Players",
+     "texte": "FourPlayers.nwa, one-key party games for 2, 3 or 4 players on one calculator, with teams: 14 minigames.",
+     "texte_fr": "FourPlayers.nwa, des jeux festifs à une seule touche pour 2, 3 ou 4 joueurs sur une seule calculatrice, en équipes : 14 mini-jeux."
+    },
+    {
+     "jeu": "Hollow Knight: Fungal Wastes",
+     "texte": "HollowKnightFungalWastes.nwa, from the Forgotten Crossroads down to Queen's Station, Mantis Village and the Mantis Lords. It shares Hollow Knight's saves.",
+     "texte_fr": "HollowKnightFungalWastes.nwa, depuis les « Forgotten Crossroads » jusqu'à « Queen's Station », en passant par le village des Mantis et les Seigneurs Mantis. Ce fichier partage les sauvegardes de Hollow Knight."
+    },
+    {
+     "jeu": "Kingdom Rush",
+     "texte": "the seven heroes and the Hero Room.",
+     "texte_fr": "les sept héros et la Salle des Héros."
+    },
+    {
+     "jeu": "Retro-Go",
+     "texte": "Game & Watch games, and Mega Drive games.",
+     "texte_fr": "Les jeux Game & Watch et les jeux Mega Drive."
+    },
+    {
+     "jeu": "Deltarune",
+     "texte": "the Field's puzzles, the Great Board and the start of the Forest.",
+     "texte_fr": "les énigmes du Champ, le Grand Échiquier et l'entrée de la Forêt."
+    },
+    {
+     "jeu": "Flappy Dunk",
+     "texte": "FlappyDunk.nwa, now on its own with the original's ball, hoops, physics, all 51 challenges and its skins. Your best score comes along.",
+     "texte_fr": "FlappyDunk.nwa, désormais en version autonome avec le ballon, les paniers, la physique, les 51 défis et les skins de la version originale. Ton meilleur score est inclus."
+    },
+    {
+     "jeu": "Doodle Jump",
+     "texte": "DoodleJump.nwa, now on its own with the original's doodler, platforms, monsters and screens. Your high score comes along.",
+     "texte_fr": "DoodleJump.nwa, désormais autonome, avec le dessinateur, les plateformes, les monstres et les écrans de la version originale. Ton meilleur score est conservé."
+    },
+    {
+     "jeu": "TI-84 Plus CE",
+     "texte": "NumPlay-TI84CE.zip, 15 games, in beta. The TI-Nspire and Casio games run faster.",
+     "texte_fr": "NumPlay-TI84CE.zip, 15 jeux, en version bêta. Les jeux pour TI-Nspire et Casio tournent plus vite."
+    },
+    {
+     "jeu": "Hollow Knight",
+     "texte": "Greenpath's way to Hornet opens, Vengeful Spirit glows instead of hiding the platforms, Dirtmouth's map shop says Enter, the game pauses behind the inventory, and the pause menu works again after a door.",
+     "texte_fr": "Le chemin de Greenpath vers Hornet s'ouvre, Vengeful Spirit s'illumine au lieu de cacher les plates-formes, la boutique de cartes de Dirtmouth affiche « Entrer », le jeu se met en pause derrière l'inventaire, et le menu de pause fonctionne à nouveau après une porte."
+    },
+    {
+     "jeu": "Subway Surfers",
+     "texte": "buildings, trains and wires far off no longer pop in, no dark line across the side tracks, and no jumping through the low roofs.",
+     "texte_fr": "Les bâtiments, les trains et les câbles au loin n'apparaissent plus d'un coup, plus aucune ligne sombre ne traverse les voies secondaires, et on ne saute plus par-dessus les toits bas."
+    },
+    {
+     "jeu": "Temple Run",
+     "texte": "trees, rocks and cliffs come in from the fog instead of popping in.",
+     "texte_fr": "les arbres, les rochers et les falaises émergent peu à peu de la brume, au lieu d'apparaître d'un coup."
+    },
+    {
+     "jeu": "Among Us",
+     "texte": "a bot who sees a kill calls it out and the crew votes the killer out, and bots only say what they saw.",
+     "texte_fr": "un bot qui voit un meurtre le signale, et l'équipe vote pour éliminer le meurtrier ; les bots ne font que rapporter ce qu'ils ont vu."
+    },
+    {
+     "jeu": "Level Devil",
+     "texte": "spikes hurt where the game's do, so the first spring of Springs 2 clears them again.",
+     "texte_fr": "Les pointes font mal là où celles du jeu font mal, donc le premier ressort de Springs 2 les élimine à nouveau."
+    },
+    {
+     "jeu": "Crossy Road",
+     "texte": "the lanes always leave a way forward, and the crossing lights blink steadily while a train goes by.",
+     "texte_fr": "Les voies laissent toujours un passage libre, et les feux du passage à niveau clignotent régulièrement quand un train passe."
+    },
+    {
+     "jeu": "Clash Royale",
+     "texte": "the hitpoints of the towers at the top of the screen show.",
+     "texte_fr": "les points de vie des tours en haut de l'écran s'affichent."
+    },
+    {
+     "jeu": "Bad Time Simulator",
+     "texte": "Sans stands on one pair of legs.",
+     "texte_fr": "Sans se tient debout sur ses deux jambes."
+    },
+    {
+     "jeu": "2 Players",
+     "texte": "Tanks drive the way the arrows point.",
+     "texte_fr": "Les chars avancent dans la direction indiquée par les flèches."
+    },
+    {
+     "jeu": "Imposter",
+     "texte": "the same screen for every role, only the words tell.",
+     "texte_fr": "Le même écran pour tous les rôles, c'est le texte qui fait la différence."
+    },
+    {
+     "jeu": "Saves",
+     "texte": "the save scripts of 18 games end properly, so the Python editor no longer shows the next file in them.",
+     "texte_fr": "Les scripts de sauvegarde de 18 jeux se terminent correctement, donc l'éditeur Python n'affiche plus le fichier suivant dans ceux-ci."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "a game's label stays on the screen at its right edge.",
+     "texte_fr": "Le titre du jeu reste affiché à l'écran, sur le bord droit."
+    }
+   ]
+  },
+  {
+   "num": "1.24.15",
+   "titre": "Imposter, and NumPlay on other calculators",
+   "titre_fr": "Imposter et NumPlay sur d'autres calculatrices",
+   "notes": [
+    {
+     "jeu": "Imposter",
+     "texte": "Imposter.nwa, the party game. Pass the calculator around: everyone sees the secret word but the imposter. 30 categories, 1,695 words.",
+     "texte_fr": "Imposter.nwa, le jeu d'ambiance. Fais passer la calculatrice : tout le monde voit le mot secret, sauf l'imposteur. 30 catégories, 1 695 mots."
+    },
+    {
+     "jeu": "TI-Nspire CX and Casio fx-CG50",
+     "texte": "NumPlay-Nspire.zip (75 games, with Ndless) and NumPlay-CasioCG.zip (71 games, also for the Graph 90+E), in beta. NumPlay Studio picks them too. The TI-84 Plus CE comes next.",
+     "texte_fr": "NumPlay-Nspire.zip (75 jeux, avec Ndless) et NumPlay-CasioCG.zip (71 jeux, aussi pour la Graph 90+E), en version bêta. NumPlay Studio les prend en charge aussi. La TI-84 Plus CE sera la prochaine."
+    },
+    {
+     "jeu": "NumBlocks",
+     "texte": "a drawn bow shows its arrow, and arrows fly where you look and hurt mobs.",
+     "texte_fr": "Un arc bandé dévoile sa flèche, et les flèches filent là où tu regardes et blessent les monstres."
+    },
+    {
+     "jeu": "Level Devil",
+     "texte": "9-4 can be finished. The runner's shape and growing work like the original.",
+     "texte_fr": "Le modèle 9-4 est prêt. La forme du coureur et les détails sont fidèles à l'original."
+    },
+    {
+     "jeu": "Mr Bullet",
+     "texte": "every level has its ground, ropes are their real length, and grenades move crates.",
+     "texte_fr": "Chaque niveau a son sol, les cordes ont leur longueur réelle et les grenades font bouger les caisses."
+    }
+   ]
+  },
+  {
+   "num": "1.24.14",
+   "titre": "Among Us",
+   "titre_fr": "Among Us",
+   "notes": [
+    {
+     "jeu": "Among Us",
+     "texte": "AmongUs.nwa, the Skeld against up to 9 bots, as a crewmate or the Impostor: every task, sabotages, vents, kills, meetings and votes, with the game's own pictures.",
+     "texte_fr": "AmongUs.nwa, le Skeld contre jusqu'à 9 bots, que ce soit en tant que coéquipier ou en tant qu'imposteur : toutes les tâches, les sabotages, les conduits d'aération, les meurtres, les réunions et les votes, avec les images du jeu."
+    }
+   ]
+  },
+  {
+   "num": "1.24.12",
+   "titre": "Crossy Road's characters",
+   "titre_fr": "Les personnages de Crossy Road",
+   "notes": [
+    {
+     "jeu": "Crossy Road",
+     "texte": "OK on a character not won yet does nothing, instead of taking 100 coins.",
+     "texte_fr": "OK, si tu cliques sur un personnage que tu n'as pas encore gagné, ça ne fait rien, au lieu de te faire perdre 100 pièces."
+    }
+   ]
+  },
+  {
+   "num": "1.24.11",
+   "titre": "Fixes",
+   "titre_fr": "Corrections",
+   "notes": [
+    {
+     "jeu": "Mr Bullet",
+     "texte": "TNT crates go off when shot, so level 7 and the others with TNT can be cleared.",
+     "texte_fr": "Les caisses de TNT explosent quand on leur tire dessus, donc le niveau 7 et les autres niveaux où il y a du TNT peuvent être terminés."
+    },
+    {
+     "jeu": "Bad Time Simulator",
+     "texte": "the heart points down.",
+     "texte_fr": "le cœur pointe vers le bas."
+    },
+    {
+     "jeu": "Undertale",
+     "texte": "Quit game in the menu's SETUP.",
+     "texte_fr": "Quitte le jeu depuis le menu « SETUP »."
+    },
+    {
+     "jeu": "Subway Surfers",
+     "texte": "the quit question no longer moves the title's buttons.",
+     "texte_fr": "La question de fermeture ne fait plus bouger les boutons de la fenêtre."
+    },
+    {
+     "jeu": "Rider",
+     "texte": "long challenges fit on the screen.",
+     "texte_fr": "les défis longs tiennent à l'écran."
+    }
+   ]
+  },
+  {
+   "num": "1.24.10",
+   "titre": "Moto X3M",
+   "titre_fr": "Moto X3M",
+   "notes": [
+    {
+     "jeu": "Moto X3M",
+     "texte": "MotoX3M.nwa, all 50 levels of the bike racing game with its flips, stars and six bikes, on the game's own pictures and physics.",
+     "texte_fr": "MotoX3M.nwa : les 50 niveaux du jeu de course de moto, avec ses figures, ses étoiles et ses six motos, en utilisant les graphismes et la physique propres au jeu."
+    }
+   ]
+  },
+  {
+   "num": "1.24.9",
+   "titre": "Ralsei's lessons in Deltarune",
+   "titre_fr": "Les leçons de Ralsei dans Deltarune",
+   "notes": [
+    {
+     "jeu": "Deltarune",
+     "texte": "Ralsei's lessons with the Dummy, every one of his comments, and the Dummy's hugs. Dialogue keeps the game's own letter spacing.",
+     "texte_fr": "Les leçons de Ralsei avec le Dummy, chacune de ses remarques et les câlins du Dummy. Les dialogues conservent l'espacement entre les lettres propre au jeu."
+    }
+   ]
+  },
+  {
+   "num": "1.24.8",
+   "titre": "NumPico, your own PICO-8 carts",
+   "titre_fr": "NumPico, tes propres cartouches PICO-8",
+   "notes": [
+    {
+     "jeu": "NumPico",
+     "texte": "drop your .p8 and .p8.png carts on NumPlay Studio and they play in your NumPlay, with PICO-8's pause menu and cart saves.",
+     "texte_fr": "Il suffit de déposer tes cartouches .p8 et .p8.png sur NumPlay Studio pour qu'elles s'exécutent dans ton NumPlay, avec le menu de pause et la fonction de sauvegarde des cartouches de PICO-8."
+    }
+   ]
+  },
+  {
+   "num": "1.24.7",
+   "titre": "Temple Run fixed, Kingdom Rush's stage buildings",
+   "titre_fr": "Corrections dans Temple Run, bâtiments des niveaux dans Kingdom Rush",
+   "notes": [
+    {
+     "jeu": "Temple Run",
+     "texte": "the game's own intro, with the path whole and the runner close at the start. No more flicker or scenery popping in, the camera stays out of the trees, and the runner and monkeys move at the game's own pace. The quit question is in the game's own alert box. 5% faster on average.",
+     "texte_fr": "L'intro du jeu, avec le parcours complet et le coureur tout près de la ligne de départ. Plus de scintillement ni d'apparition soudaine des décors, la caméra reste en dehors des arbres, et le coureur et les singes avancent au rythme du jeu. La question de sortie s'affiche dans la fenêtre d'alerte du jeu. 5 % plus rapide en moyenne."
+    },
+    {
+     "jeu": "Kingdom Rush",
+     "texte": "the elves' hall, the Sasquatch's cave and the Sunray Tower.",
+     "texte_fr": "la salle des elfes, la grotte du Sasquatch et la Tour du Rayon de Soleil."
+    }
+   ]
+  },
+  {
+   "num": "1.24.6",
+   "titre": "Mr Bullet",
+   "titre_fr": "M. Bullet",
+   "notes": [
+    {
+     "jeu": "Mr Bullet",
+     "texte": "MrBullet.nwa, 596 spy puzzles in Classic, Grenades, Hostages and Friendly Fire, with the game's own levels, pictures and physics.",
+     "texte_fr": "MrBullet.nwa, 596 énigmes d'espionnage dans les modes Classique, Grenades, Otages et Tir ami, avec les niveaux, les graphismes et la physique propres au jeu."
+    }
+   ]
+  },
+  {
+   "num": "1.24.5",
+   "titre": "FNAF World",
+   "titre_fr": "FNAF World",
+   "notes": [
+    {
+     "jeu": "FNAF World",
+     "texte": "FiveNightsAtFreddysWorld.nwa, the adventure with all 48 characters, the whole map, the battles, chips, bytes, shops and four endings, from the game's own files. It needs the 6 MB of app space Nwagra gives.",
+     "texte_fr": "FiveNightsAtFreddysWorld.nwa, l'aventure avec les 48 personnages, la carte complète, les combats, les chips, les bytes, les boutiques et les quatre fins, tirée directement des fichiers du jeu. Il faut les 6 Mo d'espace d'application fournis par Nwagra."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "a game that needs Nwagra opens the space picker.",
+     "texte_fr": "Un jeu qui a besoin de Nwagra ouvre l'outil de sélection d'espace."
+    }
+   ]
+  },
+  {
+   "num": "1.24.4",
+   "titre": "Deltarune, Rider's own physics and NumBlocks' villages",
+   "titre_fr": "Deltarune, la physique propre à Rider et les villages de NumBlocks",
+   "notes": [
+    {
+     "jeu": "Deltarune",
+     "texte": "Deltarune.nwa, Chapter 1 from Kris's room, the drive to school and the Dark World to Castle Town, Lancer and the Field's first rooms, with the game's own pictures, texts and battles.",
+     "texte_fr": "Deltarune.nwa, chapitre 1 : la chambre de Kris, le trajet jusqu'à l'école, le Monde des Ténèbres jusqu'à Castle Town, Lancer et les premières salles du Field, avec les images, les textes et les combats du jeu."
+    },
+    {
+     "jeu": "Rider",
+     "texte": "the game's own physics engine, LiquidFun 1.1.0 (Box2D 2.3.0), set up as the game sets it up. The bike fits through level 1's loop and holds to level 2's tipping bowls.",
+     "texte_fr": "le moteur physique du jeu, LiquidFun 1.1.0 (Box2D 2.3.0), configuré comme le jeu le prévoit. La moto passe dans la boucle du niveau 1 et tient bien sur les cuvettes basculantes du niveau 2."
+    },
+    {
+     "jeu": "NumBlocks",
+     "texte": "villages with villagers, desert temples with their trap, mineshafts and working dungeon spawners, laid out as Minecraft 1.8.8 does. Your worlds keep their look where you've been.",
+     "texte_fr": "des villages avec leurs habitants, des temples du désert avec leurs pièges, des puits de mine et des générateurs de donjons qui fonctionnent, le tout organisé comme dans Minecraft 1.8.8. Tes mondes gardent leur aspect là où tu es déjà passé."
+    },
+    {
+     "jeu": "",
+     "texte": "Quit dialogs ask only the question, in 16 games.",
+     "texte_fr": "Les boîtes de dialogue de sortie se contentent de poser la question, dans 16 jeux."
+    }
+   ]
+  },
+  {
+   "num": "1.24.3",
+   "titre": "Kingdom Rush",
+   "titre_fr": "Kingdom Rush",
+   "notes": [
+    {
+     "jeu": "Kingdom Rush",
+     "texte": "KingdomRush.nwa, the 2011 tower defense with its 12 stages, Heroic and Iron challenges, every tower, upgrade and boss, from the game's own files.",
+     "texte_fr": "KingdomRush.nwa, le jeu de tower defense de 2011 avec ses 12 niveaux, ses défis « Heroic » et « Iron », toutes les tours, améliorations et boss, tirés directement des fichiers du jeu."
+    }
+   ]
+  },
+  {
+   "num": "1.24.2",
+   "titre": "Cat Ninja",
+   "titre_fr": "Chat Ninja",
+   "notes": [
+    {
+     "jeu": "Cat Ninja",
+     "texte": "CatNinja.nwa, Richman Stewart's Flash platformer with all 30 levels, its traps, the boss and the crystals, from the game's own files.",
+     "texte_fr": "CatNinja.nwa, le jeu de plateforme Flash de Richman Stewart avec ses 30 niveaux, ses pièges, son boss et ses cristaux, tirés directement des fichiers du jeu."
+    },
+    {
+     "jeu": "Hollow Knight",
+     "texte": "fog and light shafts draw 9% faster.",
+     "texte_fr": "Le brouillard et les faisceaux de lumière s'affichent 9 % plus vite."
+    }
+   ]
+  },
+  {
+   "num": "1.24.1",
+   "titre": "Clash Royale",
+   "titre_fr": "Clash Royale",
+   "notes": [
+    {
+     "jeu": "Clash Royale",
+     "texte": "ClashRoyale.nwa, battles against a bot with 41 cards of the 2016 game, its seven arenas and trophies, with the game's own pictures and numbers.",
+     "texte_fr": "ClashRoyale.nwa, des combats contre un bot avec les 41 cartes du jeu de 2016, ses sept arènes et ses trophées, avec les images et les chiffres du jeu lui-même."
+    },
+    {
+     "jeu": "Temple Run",
+     "texte": "the game's own icon.",
+     "texte_fr": "l'icône du jeu lui-même."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "search the games. Apps with an .eh_frame section come in, and a Game Boy game too big for the space picked opens the space picker.",
+     "texte_fr": "Fais une recherche parmi les jeux. Les applications comportant une section .eh_frame s'affichent, et un jeu Game Boy trop volumineux pour l'espace sélectionné ouvre la fenêtre de sélection d'espace."
+    },
+    {
+     "jeu": "",
+     "texte": "Turbo Rush is no longer in NumPlay.",
+     "texte_fr": "Turbo Rush n'est plus disponible sur NumPlay."
+    }
+   ]
+  },
+  {
+   "num": "1.24.0",
+   "titre": "Five Nights at Freddy's 3's minigames",
+   "titre_fr": "Les mini-jeux de « Five Nights at Freddy's 3 »",
+   "notes": [
+    {
+     "jeu": "Five Nights at Freddy's 3",
+     "texte": "the 8-bit minigames after each night, BB's Air Adventure on CAM 08 and the good ending. All six are in Extras once the game is beaten.",
+     "texte_fr": "les mini-jeux 8 bits après chaque nuit, « BB's Air Adventure » sur la carte CAM 08 et la bonne fin. Les six sont disponibles dans la section « Extras » une fois le jeu terminé."
+    }
+   ]
+  },
+  {
+   "num": "1.23.0",
+   "titre": "Five Nights at Freddy's 3 and 4, Famidash HUGE, ColecoVision games and Universal Paperclips in French",
+   "titre_fr": "Five Nights at Freddy's 3 et 4, Famidash HUGE, les jeux ColecoVision et Universal Paperclips en français",
+   "notes": [
+    {
+     "jeu": "Five Nights at Freddy's 3",
+     "texte": "FiveNightsAtFreddys3.nwa, nights 1 to 6 with Springtrap, the phantoms, the lure, the vents and the maintenance panel, the game's own pictures and rules.",
+     "texte_fr": "FiveNightsAtFreddys3.nwa, les nuits 1 à 6 avec Springtrap, les fantômes, l'appât, les bouches d'aération et le panneau d'entretien, ainsi que les images et les règles du jeu."
+    },
+    {
+     "jeu": "Five Nights at Freddy's 4",
+     "texte": "FiveNightsAtFreddys4.nwa, nights 1 to 6, the Nightmare and 20/20/20/20 in the bedroom, with Fun with Plushtrap, the extras, the game's own pictures and rules.",
+     "texte_fr": "FiveNightsAtFreddys4.nwa, nuits 1 à 6, « The Nightmare » et « 20/20/20/20 » dans la chambre, avec « Fun with Plushtrap », les bonus, les images du jeu et les règles."
+    },
+    {
+     "jeu": "Famidash",
+     "texte": "all 173 levels of Famidash HUGE, its fullest version: the main game and its B, C, D and E-Sides, with the demon faces, Lucky Draw's own rules, the fun settings open from the start and the game's debug mode on backspace. Your progress moves to the same levels.",
+     "texte_fr": "Les 173 niveaux de Famidash HUGE, sa version complète : le jeu principal et ses faces B, C, D et E, avec les visages de démons, les règles propres à Lucky Draw, les paramètres sympas disponibles dès le début et le mode débogage accessible via la touche « retour arrière ». Ta progression est conservée dans ces mêmes niveaux."
+    },
+    {
+     "jeu": "Retro-Go",
+     "texte": "ColecoVision games, with the keypad on the calculator's digits. Games whose file stops partway into its last kilobyte play now.",
+     "texte_fr": "Les jeux ColecoVision, avec le pavé numérique de la calculatrice. Les jeux dont le fichier s'arrête en cours de lecture au niveau du dernier kilo-octet peuvent désormais être lancés."
+    },
+    {
+     "jeu": "Universal Paperclips in French",
+     "texte": "UniversalPaperclips-French.nwa, every text translated, with numbers written the French way.",
+     "texte_fr": "UniversalPaperclips-French.nwa, tous les textes ont été traduits, avec les chiffres écrits à la française."
+    },
+    {
+     "jeu": "Roadmap",
+     "texte": "vote for the next game with a 👍 on its issue.",
+     "texte_fr": "Vote pour le prochain jeu en cliquant sur 👍 sur sa fiche."
+    }
+   ]
+  },
+  {
+   "num": "1.21.0",
+   "titre": "Temple Run's own look, Crossy Road's characters and faster 3D games",
+   "titre_fr": "Le style unique de Temple Run, les personnages de Crossy Road et des jeux en 3D plus rapides",
+   "notes": [
+    {
+     "jeu": "Temple Run",
+     "texte": "the game's own textures, camera, fog, jungle floor and screens. It draws 15% faster, far path pieces keep more of their shape, far blocks and trunks no longer show scrambled textures, and it's 63 KB smaller.",
+     "texte_fr": "les textures du jeu, la caméra, le brouillard, le sol de la jungle et les écrans. Le rendu est 15 % plus rapide, les éléments éloignés conservent mieux leur forme, les blocs et les troncs éloignés n'affichent plus de textures déformées, et la taille du fichier a diminué de 63 Ko."
+    },
+    {
+     "jeu": "Crossy Road",
+     "texte": "10 characters to win from the prize machine.",
+     "texte_fr": "10 caractères à gagner à la machine à lots."
+    },
+    {
+     "jeu": "Snow Rider 3D",
+     "texte": "the game's own screens, and fuller trees, rocks and slopes at about 40 frames a second instead of 31. 12 KB smaller.",
+     "texte_fr": "les écrans du jeu lui-même, ainsi que des arbres, des rochers et des pentes plus détaillés, à environ 40 images par seconde au lieu de 31. 12 Ko de moins."
+    },
+    {
+     "jeu": "PolyTrack",
+     "texte": "sharper and farther while racing: 57% of frames at full resolution instead of 39%, and the track drawn 114 m ahead on average instead of 94.",
+     "texte_fr": "une image plus nette et plus lointaine pendant la course : 57 % des images en pleine résolution au lieu de 39 %, et le tracé affiché en moyenne 114 m plus loin au lieu de 94."
+    },
+    {
+     "jeu": "Subway Surfers",
+     "texte": "6.6 KB smaller, and far textures right on the busiest frames.",
+     "texte_fr": "6,6 Ko de moins, et les textures lointaines s'affichent parfaitement même dans les images les plus chargées."
+    },
+    {
+     "jeu": "Saves",
+     "texte": "each game's copy of its save starts with one line instead of three, 3.6 KB less in your scripts with every game installed.",
+     "texte_fr": "La sauvegarde de chaque jeu ne comporte qu'une seule ligne au lieu de trois, ce qui te fait gagner 3,6 Ko dans tes scripts à chaque fois que tu installes un jeu."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "the space map and bar work again, every icon has round corners, and every game plays its clip when you point at it.",
+     "texte_fr": "La carte de l'espace et la barre fonctionnent à nouveau, toutes les icônes ont des coins arrondis, et chaque jeu lance son clip quand tu passes la souris dessus."
+    }
+   ]
+  },
+  {
+   "num": "1.20.0",
+   "titre": "Famidash, Five Nights at Freddy's 2, Rider, Temple Run and more",
+   "titre_fr": "Famidash, Five Nights at Freddy's 2, Rider, Temple Run et bien d'autres encore",
+   "notes": [
+    {
+     "jeu": "New on their own",
+     "texte": "Famidash, TFDSoft's Geometry Dash for the NES, all 45 levels of its first set; Five Nights at Freddy's 2, its six nights and the Custom Night with the game's own pictures; Rider, with its endless run, 48 levels and 55 bikes; Temple Run, with the game's own path, models and upgrades; Mahjong, with the Turtle, the Dragon, the Crab and the Spider; Meowdoku, with 309 puzzles; Bad Time Simulator, the Sans fight; and Snow Rider 3D, brought by dennisimoo.",
+     "texte_fr": "Famidash, le « Geometry Dash » de TFDSoft pour la NES, avec les 45 niveaux de son premier pack ; Five Nights at Freddy's 2, avec ses six nuits et la « Custom Night » utilisant les images du jeu ; Rider, avec son mode « endless run », ses 48 niveaux et ses 55 motos ; Temple Run, avec le parcours, les modèles et les améliorations propres au jeu ; Mahjong, avec la Tortue, le Dragon, le Crabe et l'Araignée ; Meowdoku, avec 309 puzzles ; Bad Time Simulator, le combat contre Sans ; et Snow Rider 3D, proposé par dennisimoo."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "your own .nwa apps go in your NumPlay, each with its own card, and Meowdoku can go in too.",
+     "texte_fr": "Tes propres applications .nwa vont dans ton NumPlay, chacune avec sa propre carte, et Meowdoku peut aussi y aller."
+    },
+    {
+     "jeu": "Retro-Go",
+     "texte": "SG-1000 games, and any key for any button in Controls.",
+     "texte_fr": "Les jeux SG-1000, et n'importe quelle touche correspondant à n'importe quel bouton dans les « Commandes »."
+    },
+    {
+     "jeu": "Smaller, by Lily",
+     "texte": "Hill Climb Racing by 199 KB, Celeste by 15 KB, and Plants vs. Zombies.",
+     "texte_fr": "« Hill Climb Racing » (199 Ko), « Celeste » (15 Ko) et « Plants vs. Zombies »."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "NumDrive's Mobile Home makes it over level 25's bridge, and Plants vs. Zombies' menu, its new plant's words and How to Play's title sit where they should.",
+     "texte_fr": "La « Mobile Home » de NumDrive réussit à franchir le pont du niveau 25, et le menu de « Plants vs. Zombies », les répliques de sa nouvelle plante et le titre de la rubrique « Comment jouer » s'affichent là où ils doivent être."
+    }
+   ]
+  },
+  {
+   "num": "1.19.0",
+   "titre": "Universal Paperclips",
+   "titre_fr": "Trombones universels",
+   "notes": [
+    {
+     "jeu": "New on its own",
+     "texte": "Universal Paperclips, the whole game from the first clip to the last bit of matter in the universe.",
+     "texte_fr": "Universal Paperclips, tout le jeu, du premier trombone jusqu'à la dernière particule de matière de l'univers."
+    },
+    {
+     "jeu": "NumBlocks",
+     "texte": "in the End, triangles point to the Ender Dragon and to the pillars whose crystals are whole, and the dragon no longer comes through the island. Explosions stop at walls, and panes, bars and fences draw faster.",
+     "texte_fr": "Au final, les triangles pointent vers le Dragon Ender et vers les piliers dont les cristaux sont intacts, et le dragon ne traverse plus l'île. Les explosions s'arrêtent aux murs, et les vitres, les barreaux et les clôtures s'affichent plus vite."
+    },
+    {
+     "jeu": "Undertale",
+     "texte": "Waterfall's walls and floors are told apart and its signs are in reach, the Legendary Artifact brings its Annoying Dogs, and Monster Kid and Undyne keep up when you walk fast.",
+     "texte_fr": "Les murs et les sols de Waterfall se distinguent clairement et ses panneaux sont à portée de main ; l'artefact légendaire amène ses chiens agaçants, et Monster Kid et Undyne te suivent quand tu marches vite."
+    },
+    {
+     "jeu": "Hollow Knight",
+     "texte": "the enemies the game brings back after a rest, a death or a load at a bench come back.",
+     "texte_fr": "Les ennemis que le jeu fait réapparaître après une pause, une mort ou un chargement à un banc reviennent."
+    },
+    {
+     "jeu": "Cookie Clicker",
+     "texte": "0.8 MB smaller, drawn the same.",
+     "texte_fr": "0,8 Mo de moins, mais le dessin est le même."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "big Game Boy games in Retro-Go, like the 2 MB ones, with Epsilon 26 or Nwagra.",
+     "texte_fr": "Les gros jeux Game Boy sur Retro-Go, comme ceux de 2 Mo, avec Epsilon 26 ou Nwagra."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "Plants vs. Zombies' Wall-nut Bowling plays to its end, Jetpack Joyride always leaves a way past its zappers, and Cookie Clicker's upgrades for baking while closed say they do nothing on the calculator.",
+     "texte_fr": "Dans « Plants vs. Zombies », le mode « Wall-nut Bowling » va jusqu'au bout ; dans « Jetpack Joyride », il y a toujours un moyen de contourner les zappers ; et dans « Cookie Clicker », les améliorations pour cuire des cookies quand le jeu est fermé indiquent, d'après la calculatrice, qu'elles ne servent à rien."
+    }
+   ]
+  },
+  {
+   "num": "1.18.0",
+   "titre": "PolyTrack",
+   "titre_fr": "PolyTrack",
+   "notes": [
+    {
+     "jeu": "New on its own",
+     "texte": "PolyTrack, all 17 tracks with their loops, wall rides and tubes, on an engine from Boris-TH's PolyGT 3D.",
+     "texte_fr": "PolyTrack : les 17 circuits, avec leurs boucles, leurs murs de glisse et leurs tunnels, sur le moteur PolyGT 3D de Boris-TH."
+    },
+    {
+     "jeu": "Balatro",
+     "texte": "rearrange your cards and Jokers with Alpha.",
+     "texte_fr": "Réorganise tes cartes et tes jokers avec Alpha."
+    },
+    {
+     "jeu": "Jetpack Joyride",
+     "texte": "the bullets, zappers, scientists, Barry's fall and the rooms work as in the game.",
+     "texte_fr": "Les balles, les zappers, les scientifiques, la chute de Barry et les salles fonctionnent comme dans le jeu."
+    },
+    {
+     "jeu": "Celeste",
+     "texte": "the Celestial Resort's busiest rooms run at full speed.",
+     "texte_fr": "Les chambres les plus prisées du Celestial Resort tournent à plein régime."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "Hollow Knight's soul orb fills, its first tablet's lesson fits, the Snail Shaman talks after the Elder Baldur, a first charm no longer freezes the Knight and lifeblood cocoons come back after a rest, Celeste no longer shows a hidden passage, and Monkey Mart's cashier stands behind a tall pile of money.",
+     "texte_fr": "L'orbe d'âme de Hollow Knight se remplit, la leçon de sa première tablette s'applique, le chaman escargot prend la parole après l'Ancien Baldur, un premier sort ne fige plus le Chevalier et les cocons de vie réapparaissent après un repos, Celeste ne montre plus de passage secret, et le caissier de Monkey Mart se tient derrière une haute pile d'argent."
+    }
+   ]
+  },
+  {
+   "num": "1.17.0",
+   "titre": "Angry Birds, Friday Night Funkin', UNO and Turbo Rush",
+   "titre_fr": "Angry Birds, Friday Night Funkin', UNO et Turbo Rush",
+   "notes": [
+    {
+     "jeu": "New on their own",
+     "texte": "Angry Birds, Friday Night Funkin', UNO and Turbo Rush, by Bobydeluxe.",
+     "texte_fr": "Angry Birds, Friday Night Funkin', UNO et Turbo Rush, par Bobydeluxe."
+    },
+    {
+     "jeu": "2 Players",
+     "texte": "Quick Draw and Tug of War, player 1 on OK, and a fairer computer.",
+     "texte_fr": "« Quick Draw » et « Tug of War », le joueur 1 est sur « OK », et un adversaire virtuel plus équitable."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "NumVisuals can go in your own NumPlay.",
+     "texte_fr": "Tu peux intégrer NumVisuals dans ton propre NumPlay."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "Hill Climb Racing's Volcano runs as smooth as the other stages, and Cookie Clicker's save script says what it holds.",
+     "texte_fr": "Le niveau « Volcano » de Hill Climb Racing est aussi fluide que les autres niveaux, et le script de sauvegarde de Cookie Clicker indique bien ce qu'il contient."
+    }
+   ]
+  },
+  {
+   "num": "1.16.0",
+   "titre": "Monkey Mart, Tomb of the Mask and more Hill Climb Racing",
+   "titre_fr": "Monkey Mart, Tomb of the Mask et d'autres niveaux de Hill Climb Racing",
+   "notes": [
+    {
+     "jeu": "New on their own",
+     "texte": "Monkey Mart and Tomb of the Mask, by Bobydeluxe.",
+     "texte_fr": "« Monkey Mart » et « Tomb of the Mask », par Bobydeluxe."
+    },
+    {
+     "jeu": "Hill Climb Racing",
+     "texte": "the Tractor, Tourist Bus, Super Diesel 4x4, Snow Mobile and Truck, and the Mountain, Mudpool and Volcano.",
+     "texte_fr": "le tracteur, le car de tourisme, le 4x4 Super Diesel, la motoneige et le camion, ainsi que la montagne, la mare de boue et le volcan."
+    },
+    {
+     "jeu": "Celeste",
+     "texte": "pause and the moves can go on any key.",
+     "texte_fr": "Appuie sur Pause, et tu peux entrer les commandes avec n'importe quelle touche."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "your calculator's real space (2.44 MB on Epsilon 26, 6.5 MB with Nwagra), big games in French and Chinese NumPlays, and a light calculator for slow computers and phones.",
+     "texte_fr": "l'espace réel de ta calculatrice (2,44 Mo sur Epsilon 26, 6,5 Mo avec Nwagra), des jeux volumineux dans les versions française et chinoise de NumPlays, et une calculatrice légère pour les ordinateurs et les téléphones peu puissants."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "the way to Hollow Knight's False Knight is open, and big games keep their saves in a 6 MB NumPlay.",
+     "texte_fr": "La voie vers le « False Knight » de Hollow Knight est désormais ouverte, et les gros jeux stockent leurs sauvegardes dans un fichier NumPlay de 6 Mo."
+    }
+   ]
+  },
+  {
+   "num": "1.15.0",
+   "titre": "Stickman Hook, Donkey Kong, Core Ball, Dune and NumPlay Studio",
+   "titre_fr": "Stickman Hook, Donkey Kong, Core Ball, Dune et NumPlay Studio",
+   "notes": [
+    {
+     "jeu": "New in NumPlay",
+     "texte": "Core Ball, after Tower Blocks.",
+     "texte_fr": "Core Ball, après Tower Blocks."
+    },
+    {
+     "jeu": "New on their own",
+     "texte": "Stickman Hook, Donkey Kong and Dune.",
+     "texte_fr": "Stickman Hook, Donkey Kong et Dune."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "a website where you pick the games in your NumPlay, add your own Game Boy, NES and Sega games, and install it.",
+     "texte_fr": "un site web où tu choisis les jeux pour ton NumPlay, où tu ajoutes tes propres jeux Game Boy, NES et Sega, et où tu les installes."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "Hollow Knight's Charms page says to rest at a bench, Home keeps a charm you just put on, and the stag stations are no longer black.",
+     "texte_fr": "La page « Charms » de Hollow Knight indique qu'il faut se reposer sur un banc, que le bouton « Accueil » conserve le charm que tu viens d'équiper, et que les stations « Stag » ne sont plus noires."
+    },
+    {
+     "jeu": "",
+     "texte": "The four new games were brought to NumPlay by Bobydeluxe. The Upsilon version has 24 games.",
+     "texte_fr": "Les quatre nouveaux jeux ont été ajoutés à NumPlay par Bobydeluxe. La version Upsilon compte 24 jeux."
+    }
+   ]
+  },
+  {
+   "num": "1.14.0",
+   "titre": "Suika Game, Flappy Dunk, Tower Blocks, Doodle Jump and Jetpack Joyride",
+   "titre_fr": "Suika Game, Flappy Dunk, Tower Blocks, Doodle Jump et Jetpack Joyride",
+   "notes": [
+    {
+     "jeu": "New in NumPlay",
+     "texte": "Suika Game, Flappy Dunk, Tower Blocks and Doodle Jump, all four by Bobydeluxe.",
+     "texte_fr": "Suika Game, Flappy Dunk, Tower Blocks et Doodle Jump : ces quatre jeux sont signés Bobydeluxe."
+    },
+    {
+     "jeu": "New on its own",
+     "texte": "Jetpack Joyride.",
+     "texte_fr": "Jetpack Joyride."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "Subway Surfers' side tracks no longer vanish, Champion Island's last two side quests, Doom's far floors no longer shimmer, and the air hockey puck can't get stuck.",
+     "texte_fr": "Les chemins secondaires de Subway Surfers ne disparaissent plus, les deux dernières quêtes secondaires de Champion Island sont restées, les niveaux les plus éloignés de Doom ne scintillent plus, et le palet de hockey sur air ne peut plus rester coincé."
+    },
+    {
+     "jeu": "",
+     "texte": "The Upsilon version has 23 games.",
+     "texte_fr": "La version Upsilon compte 23 jeux."
+    }
+   ]
+  },
+  {
+   "num": "1.13.0",
+   "titre": "nine big games, five new ones in NumPlay",
+   "titre_fr": "neuf grands jeux, dont cinq nouveaux sur NumPlay",
+   "notes": [
+    {
+     "jeu": "New on their own",
+     "texte": "Subway Surfers, Five Nights at Freddy's, Doom, The Binding of Isaac, Hill Climb Racing, Plants vs. Zombies, Sonic the Hedgehog, Cookie Clicker and Level Devil.",
+     "texte_fr": "Subway Surfers, Five Nights at Freddy's, Doom, The Binding of Isaac, Hill Climb Racing, Plants vs. Zombies, Sonic the Hedgehog, Cookie Clicker et Level Devil."
+    },
+    {
+     "jeu": "New in NumPlay",
+     "texte": "2 Players, Space Invaders, Sudoku, Ultimate Tic-Tac-Toe and Sokoban.",
+     "texte_fr": "2 joueurs, Space Invaders, Sudoku, Ultimate Tic-Tac-Toe et Sokoban."
+    },
+    {
+     "jeu": "",
+     "texte": "NumVisuals moves out to an app of its own. Its backgrounds stay in NumPlay.",
+     "texte_fr": "NumVisuals devient une appli à part entière. Ses arrière-plans restent dans NumPlay."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "your bug lists for NumBlocks, Doom, Hollow Knight, Undertale, Celeste, NumDrive and Champion Island.",
+     "texte_fr": "tes listes de bugs pour NumBlocks, Doom, Hollow Knight, Undertale, Celeste, NumDrive et Champion Island."
+    }
+   ]
+  },
+  {
+   "num": "1.12.0",
+   "titre": "Chrome Dino",
+   "titre_fr": "Chrome Dino",
+   "notes": [
+    {
+     "jeu": "New in NumPlay",
+     "texte": "Chrome Dino, after Tetris, brought to NumPlay by LilyTheCatgirl.",
+     "texte_fr": "Chrome Dino, inspiré de Tetris, proposé sur NumPlay par LilyTheCatgirl."
+    }
+   ]
+  },
+  {
+   "num": "1.11.2",
+   "titre": "Celeste's Summit checkpoints, NumDrive faster and fixed levels",
+   "titre_fr": "Les points de contrôle de « Summit » dans « Celeste », « NumDrive » plus rapide et niveaux corrigés",
+   "notes": [
+    {
+     "jeu": "Fixed",
+     "texte": "every checkpoint in Celeste's 7B works again. NumDrive is faster, its shadows stay put, and nine of its levels play as they should.",
+     "texte_fr": "Tous les points de contrôle de Celeste 7B fonctionnent à nouveau. NumDrive est plus rapide, ses ombres restent en place, et neuf de ses niveaux se jouent comme il faut."
+    }
+   ]
+  },
+  {
+   "num": "1.11.1",
+   "titre": "46 KB smaller",
+   "titre_fr": "46 Ko de moins",
+   "notes": [
+    {
+     "jeu": "",
+     "texte": "NumPlay takes 46 KB less space on the calculator. Every game plays and looks as before.",
+     "texte_fr": "NumPlay prend 46 Ko de moins sur la calculatrice. Tous les jeux fonctionnent et s'affichent comme avant."
+    }
+   ]
+  },
+  {
+   "num": "1.11.0",
+   "titre": "Undertale",
+   "titre_fr": "Undertale",
+   "notes": [
+    {
+     "jeu": "New on its own",
+     "texte": "Undertale, the whole Underground to the neutral ending.",
+     "texte_fr": "Undertale, tout le monde souterrain jusqu'à la fin neutre."
+    },
+    {
+     "jeu": "Fixed",
+     "texte": "Tetris' Up is harder to press by accident, and On/Off saves and quits NumBlocks.",
+     "texte_fr": "La touche « Haut » de Tetris est plus difficile à appuyer par inadvertance, et la touche « Marche/Arrêt » permet de sauvegarder et de quitter NumBlocks."
+    }
+   ]
+  },
+  {
+   "num": "1.10.0",
+   "titre": "Block Blast",
+   "titre_fr": "Block Blast",
+   "notes": [
+    {
+     "jeu": "New in NumPlay",
+     "texte": "Block Blast, after Buckshot Roulette.",
+     "texte_fr": "Block Blast, après Buckshot Roulette."
+    }
+   ]
+  }
+ ]
+}
