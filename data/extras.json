@@ -1,0 +1,33 @@
+{
+  "_": "Jeux en plus de NumPlay, publiés à part (chacun dans son dépôt : le fichier .nwa de sa dernière release). Textes en français. Un jeu qui arrive dans NumPlay est ignoré ici.",
+  "jeux": [
+    {
+      "id": "supermariobros",
+      "depot": "Mason363/NumWorks-Super-Mario-Bros",
+      "nwa": "SuperMarioBros.nwa",
+      "titre": "Super Mario Bros.",
+      "accroche": "Les 32 niveaux, avec sauvegarde",
+      "description": "Super Mario Bros. sur NumWorks : les 32 niveaux, joués par le moteur SMB-Vanilla. Sans le son.",
+      "credit": "Adaptation de Mason Chen ; jeu de Nintendo",
+      "couleurs": {
+        "haut": "#5c94fc",
+        "bas": "#c84c0c",
+        "accent": "#e52521"
+      }
+    },
+    {
+      "id": "supermario64",
+      "depot": "Mason363/NumWorks-Super-Mario-64",
+      "nwa": "SuperMario64.nwa",
+      "titre": "Super Mario 64",
+      "accroche": "Le château et les cinq premiers mondes, en 3D",
+      "description": "Super Mario 64 sur NumWorks, à partir de la décompilation n64decomp : le château de Peach, ses jardins et les cinq premiers mondes avec leurs étoiles. Sans le son. Prend presque toute la place pour les applis : à envoyer avec l'espace agrandi.",
+      "credit": "Adaptation de Mason Chen ; jeu de Nintendo",
+      "couleurs": {
+        "haut": "#3a7bd5",
+        "bas": "#1d2f6f",
+        "accent": "#e52521"
+      }
+    }
+  ]
+}
