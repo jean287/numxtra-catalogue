@@ -14,6 +14,7 @@ const API = `https://api.github.com/repos/${DEPOT}`;
 const SORTIE = 'catalogue/catalogue.json';
 const MANIFESTE = 'catalogue/manifest.json';
 const TRAD = 'data/traductions.json';
+const EXTRAS = 'data/extras.json'; // les jeux publiés à part (voir ce fichier)
 const ICONES = ['src/icon.png', 'assets/icon.png', 'tetris/src/data/icon.png', 'docs/icon.png'];
 const ICONE_PARTAGEE = { hkfungal: 'hollowknight' };
 // Nom du fichier .nwa publié, quand il ne se déduit pas du titre du jeu.
@@ -165,12 +166,48 @@ async function main() {
     });
   }
 
+  // Les jeux en plus, publiés chacun dans leur dépôt (data/extras.json)
+  const extras = (await lireJson(EXTRAS, { jeux: [] })).jeux || [];
+  const dejaLa = new Set(sortie.flatMap((j) => [norm(j.id), norm(j.titre)]));
+  for (const x of extras) {
+    if (dejaLa.has(norm(x.id)) || dejaLa.has(norm(x.titre))) { log(`${x.titre} est maintenant dans NumPlay : ignoré ici`); continue; }
+    const avant = ancienParId[x.id] || {};
+    const rx = await recuperer(`https://api.github.com/repos/${x.depot}/releases/latest`, { headers: { ...entetes, Accept: 'application/vnd.github+json' } });
+    const rel = rx.ok ? await rx.json() : null;
+    const a = rel && rel.assets.find((y) => norm(y.name) === norm(x.nwa)) || rel && rel.assets.find((y) => /\.nwa$/i.test(y.name));
+    let fichier = avant.fichier || null;
+    if (a) {
+      const deja = anciensFichiers[a.name];
+      if (deja && deja.taille === a.size && deja.maj === a.updated_at && deja.sha256) fichier = deja;
+      else {
+        const r = await recuperer(a.browser_download_url);
+        fichier = { nom: a.name, taille: a.size, url: a.browser_download_url, sha256: sha(Buffer.from(await r.arrayBuffer())), maj: a.updated_at };
+        log(`empreinte ${a.name} (${x.depot})`);
+      }
+    } else log(`${x.depot} : release introuvable (${rx.status})`);
+    let icone = avant.icone;
+    if (icone === undefined) {
+      icone = null;
+      for (const p of ['icon.png', 'docs/icon.png', 'assets/icon.png', 'src/icon.png']) {
+        const u = `https://raw.githubusercontent.com/${x.depot}/main/${p}`;
+        if (await existe(u)) { icone = u; break; }
+      }
+    }
+    sortie.push({
+      id: x.id, titre: x.titre, accroche: x.accroche || '', description: x.description || '', credit: x.credit || null,
+      couleurs: x.couleurs || { haut: '#5d6670', bas: '#2b3137', accent: '#f2a900' }, rang: null,
+      icone, video: null, sauvegardes: x.sauvegardes || [], reinitialiser: [], fichier,
+      depot: 'https://github.com/' + x.depot, fr: {}, aPart: true,
+    });
+  }
+
   // Traductions
   const aTraduire = [];
-  for (const j of sortie) aTraduire.push(j.accroche, j.description, j.credit);
+  for (const j of sortie) if (!j.aPart) aTraduire.push(j.accroche, j.description, j.credit); // (les jeux en plus sont écrits en français)
   for (const v of versions) { aTraduire.push(v.titre); for (const n of v.notes) aTraduire.push(n.texte); }
   await traduire(aTraduire.filter(Boolean), memoire);
-  for (const j of sortie) j.fr = { accroche: fr(j.accroche, memoire), description: fr(j.description, memoire), credit: fr(j.credit, memoire) };
+  for (const j of sortie) j.fr = j.aPart ? { accroche: j.accroche, description: j.description, credit: j.credit }
+    : { accroche: fr(j.accroche, memoire), description: fr(j.description, memoire), credit: fr(j.credit, memoire) };
   const versionsSortie = versions.map((v) => ({
     num: v.num, titre: v.titre, titre_fr: fr(v.titre, memoire),
     notes: v.notes.map((n) => ({ jeu: n.jeu, texte: n.texte, texte_fr: fr(n.texte, memoire) })),
