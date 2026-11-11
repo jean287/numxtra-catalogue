@@ -1,6 +1,6 @@
 {
- "genere": "2026-11-10T19:17:54.618Z",
- "empreinte": "d61237bbfbdbdd905849455bf330e8836e1050954ade15e73d93f9c5e869c3b6",
+ "genere": "2026-11-11T13:03:00.794Z",
+ "empreinte": "bc24f66ccdc9cfe49b9e7a8980c963648925c4b61b19bfcce907b95c368db919",
  "format": 1,
  "source": "https://github.com/Mason363/NumPlay",
  "numplay": {
@@ -2709,6 +2709,68 @@
     "description": "Fais rouler une balle à travers des niveaux ronds qui s'agrandissent à chaque fois que tu ramasses un cercle, sur la calculatrice NumWorks. Ramasse sept cercles pour terminer un niveau.",
     "credit": "D'après « circloO » de Florian van Strien"
    }
+  },
+  {
+   "id": "supermariobros",
+   "titre": "Super Mario Bros.",
+   "accroche": "Les 32 niveaux, avec sauvegarde",
+   "description": "Super Mario Bros. sur NumWorks : les 32 niveaux, joués par le moteur SMB-Vanilla. Sans le son.",
+   "credit": "Adaptation de Mason Chen ; jeu de Nintendo",
+   "couleurs": {
+    "haut": "#5c94fc",
+    "bas": "#c84c0c",
+    "accent": "#e52521"
+   },
+   "rang": null,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumWorks-Super-Mario-Bros/main/src/icon.png",
+   "video": null,
+   "sauvegardes": [],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SuperMarioBros.nwa",
+    "taille": 189248,
+    "url": "https://github.com/Mason363/NumWorks-Super-Mario-Bros/releases/download/v1.0.0/SuperMarioBros.nwa",
+    "sha256": "ba4b79270d81bbd4ee467727c0cf80b98ac98d74bf1ce65e2cea75037931d95b",
+    "maj": "2026-10-22T00:45:47Z"
+   },
+   "depot": "https://github.com/Mason363/NumWorks-Super-Mario-Bros",
+   "fr": {
+    "accroche": "Les 32 niveaux, avec sauvegarde",
+    "description": "Super Mario Bros. sur NumWorks : les 32 niveaux, joués par le moteur SMB-Vanilla. Sans le son.",
+    "credit": "Adaptation de Mason Chen ; jeu de Nintendo"
+   },
+   "aPart": true
+  },
+  {
+   "id": "supermario64",
+   "titre": "Super Mario 64",
+   "accroche": "Le château et les cinq premiers mondes, en 3D",
+   "description": "Super Mario 64 sur NumWorks, à partir de la décompilation n64decomp : le château de Peach, ses jardins et les cinq premiers mondes avec leurs étoiles. Sans le son. Prend presque toute la place pour les applis : à envoyer avec l'espace agrandi.",
+   "credit": "Adaptation de Mason Chen ; jeu de Nintendo",
+   "couleurs": {
+    "haut": "#3a7bd5",
+    "bas": "#1d2f6f",
+    "accent": "#e52521"
+   },
+   "rang": null,
+   "icone": "https://raw.githubusercontent.com/Mason363/NumWorks-Super-Mario-64/main/src/icon.png",
+   "video": null,
+   "sauvegardes": [],
+   "reinitialiser": [],
+   "fichier": {
+    "nom": "SuperMario64.nwa",
+    "taille": 3134092,
+    "url": "https://github.com/Mason363/NumWorks-Super-Mario-64/releases/download/v1.1.0/SuperMario64.nwa",
+    "sha256": "ea5bd5f99cd633728d7b75a24890f53607acc8c779eea86a6005eae082cab4a7",
+    "maj": "2026-10-20T18:27:04Z"
+   },
+   "depot": "https://github.com/Mason363/NumWorks-Super-Mario-64",
+   "fr": {
+    "accroche": "Le château et les cinq premiers mondes, en 3D",
+    "description": "Super Mario 64 sur NumWorks, à partir de la décompilation n64decomp : le château de Peach, ses jardins et les cinq premiers mondes avec leurs étoiles. Sans le son. Prend presque toute la place pour les applis : à envoyer avec l'espace agrandi.",
+    "credit": "Adaptation de Mason Chen ; jeu de Nintendo"
+   },
+   "aPart": true
   }
  ],
  "versions": [
