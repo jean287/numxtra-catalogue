@@ -329,5 +329,11 @@
  "68e902b9f0ceca45e06bd205b61f2f1c805c13b9": "Undertale, tout le monde souterrain jusqu'à la fin neutre.",
  "62293d91d82d194da0e21ea804c9b9654ebdc8aa": "La touche « Haut » de Tetris est plus difficile à appuyer par inadvertance, et la touche « Marche/Arrêt » permet de sauvegarder et de quitter NumBlocks.",
  "ab874f543ee3ac518f8a7eb8dc28fd41eb38c482": "Block Blast",
- "f1b27f2345f03882c322dc4764bf6b34a6e882b1": "Block Blast, après Buckshot Roulette."
+ "f1b27f2345f03882c322dc4764bf6b34a6e882b1": "Block Blast, après Buckshot Roulette.",
+ "10ecdd737db910ba46e7ae27665f0c6143420b24": "Mises à jour pour la TI-Nspire, et les téléchargements TI et Casio",
+ "77910594ecea65c5326a6d7904a978415fc84c77": "Undertale, Deltarune, The Binding of Isaac, Among Us, Doom, Portal Returns, Cookie Clicker, Plants vs. Zombies, les jeux Five Nights at Freddy's, Pac-Man, Snake, 2048, Démineur, Solitaire, Puissance 4, Flappy Bird et Block Breaker ne plantent plus.",
+ "64811320707c0d3e852ec5bcab861d7400db4c05": "Quand un jeu attend une touche, il affiche tout son écran ; du coup, la sélection de niveau de NumDash et les menus de NumBlocks ne gardent plus les anciennes lignes en bas.",
+ "f010e9b6af24d4ed257d22a1bb094b4590e17333": "Les touches A à Z, l'espace et le signe « ? ! » fonctionnent comme les touches NumWorks correspondant à ces lettres ; ainsi, le pavé numérique permet de saisir des noms, et les touches sin, cos, ln, log, i et √ sont disponibles.",
+ "316727326eebf2f710dc33e424b84c63da6c7c93": "Les fichiers NumPlay-TI84CE.zip, NumPlay-Nspire.zip et NumPlay-CasioCG.zip se trouvent en haut de la page de mise à jour, sous chaque calculatrice dans le fichier README et sur la page de chaque calculatrice. La page TI-Nspire t'indique où installer les jeux de Retro-Go.",
+ "9140ec3d27f5cc911e7b71f1504e963f1747d21e": "N'ouvre un ticket que si quelque chose ne fonctionne pas."
 }
