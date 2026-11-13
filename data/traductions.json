@@ -335,5 +335,8 @@
  "64811320707c0d3e852ec5bcab861d7400db4c05": "Quand un jeu attend une touche, il affiche tout son écran ; du coup, la sélection de niveau de NumDash et les menus de NumBlocks ne gardent plus les anciennes lignes en bas.",
  "f010e9b6af24d4ed257d22a1bb094b4590e17333": "Les touches A à Z, l'espace et le signe « ? ! » fonctionnent comme les touches NumWorks correspondant à ces lettres ; ainsi, le pavé numérique permet de saisir des noms, et les touches sin, cos, ln, log, i et √ sont disponibles.",
  "316727326eebf2f710dc33e424b84c63da6c7c93": "Les fichiers NumPlay-TI84CE.zip, NumPlay-Nspire.zip et NumPlay-CasioCG.zip se trouvent en haut de la page de mise à jour, sous chaque calculatrice dans le fichier README et sur la page de chaque calculatrice. La page TI-Nspire t'indique où installer les jeux de Retro-Go.",
- "9140ec3d27f5cc911e7b71f1504e963f1747d21e": "N'ouvre un ticket que si quelque chose ne fonctionne pas."
+ "9140ec3d27f5cc911e7b71f1504e963f1747d21e": "N'ouvre un ticket que si quelque chose ne fonctionne pas.",
+ "15c198784c3a4c67ff3bbf66f5bf9b2128e769b4": "Corrections pour Undertale et NumPlay Studio",
+ "d228fc4d562e42f4a21d1debf06aace46154bd3b": "La chaîne qui se trouve dans l'escalier de la maison d'Asgore s'ouvre quand tu l'ouvres avec les deux clés.",
+ "83e79083a8a0e74e7e6895391c85d0dae9adbb97": "Plus de Nwagra sur Epsilon 26. Ça ne marche pas là-bas, et le programme d'installation affichait une taille « NaN »."
 }
