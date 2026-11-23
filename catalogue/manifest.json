@@ -1,9 +1,9 @@
 {
- "genere": "2026-11-13T12:25:40.597Z",
- "empreinte": "8180874d66153cfaf1609f6517eada33ba39c9861d1a944d1608c8367b509225",
+ "genere": "2026-11-23T15:02:58.935Z",
+ "empreinte": "605a13fc6a597b6a3328e00b7b253cbe228d8cf68290f21cedd7cf2f288b4f0e",
  "numplay": {
-  "version": "1.24.19",
-  "release": "v1.24.19"
+  "version": "1.24.22",
+  "release": "v1.24.22"
  },
  "jeux": 82
 }
