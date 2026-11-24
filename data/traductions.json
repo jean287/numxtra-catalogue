@@ -376,5 +376,14 @@
  "d7e5cf876bbf9838ea0ffaadda2ed537cc2ddb46": "Quand tu prends et déplaces une pièce, ne redessine que les cases qui changent.",
  "2f1f86ca6c772f422cb33b32e5d2d65c8ea4ba34": "Balatro se lance à chaque fois, le canon de Space Invaders se déplace avec les flèches, et les tapotements rapides comptent même avec des images lentes. Block Breaker, Connect Four, Imposter, Air Hockey, Tanks, Light Cycles, Ultimate Tic-Tac-Toe, les échecs et le solitaire tournent jusqu'à six fois plus vite.",
  "a098a40d9f08c2b2ea860d0643f8782111ebb33d": "À Tanooki City, sur Champion Island, l'écran ne se déforme plus et le jeu ne se fige plus, et les tapotements rapides sont pris en compte dans les jeux lents comme Temple Run.",
- "a8d47e7979cc042d7b1f99c5918da9d54939334a": "Dans NumDrive, les niveaux démarrent directement au lieu d'afficher un écran rouge, et l'image de Crossy Road n'est plus brouillée."
+ "a8d47e7979cc042d7b1f99c5918da9d54939334a": "Dans NumDrive, les niveaux démarrent directement au lieu d'afficher un écran rouge, et l'image de Crossy Road n'est plus brouillée.",
+ "296e34e2b5cd13e2db9c77021899c918f1440ffa": "Le nouveau look de NumVisuals",
+ "ee32ad8924a49c6fc88658fda5a10a28ef62f82c": "Les 11 arrière-plans ont tous été redessinés à partir de zéro, avec des couleurs harmonieuses, une lumière douce et des reflets, tandis que l'horloge et tes textes, en police Nunito, restent nets quelle que soit la taille. Toujours 30 images par seconde.",
+ "a56cc59f191360ea9f4fba9692cb837daef55bdc": "⌫ Sur l'écran d'accueil, tu trouveras les 11 fonds d'écran de NumVisuals, dont « Warp », « Tunnel », « Fire », « Bokeh » et « Code Rain ».",
+ "d9a0ca267a39f1a7b924f89f499a3adf7a714c07": "NumDash.nwa contient les niveaux « The Seven Seas », « Viking Arena » et « Airborne Robots » issus de Geometry Dash Meltdown, ainsi que « Nock Em » de SubZero, après Dash.",
+ "4dbd7cf26e588fe206678a20d93f5aca1b0af967": "Le fichier NumBlocks.nwa contient des portails, ainsi que des clôtures, des portes et des escaliers en épicéa, en bouleau, en « jungle », en chêne foncé et en acacia. Les portes ouvertes se trouvent aux mêmes endroits que dans la version 1.8.8.",
+ "01d4f02ff414650dc4dc9f90279d27861dcbe938": "Chat rapide pendant les réunions. Clique sur la boîte à outils, puis sur OK.",
+ "b0f2be3d9f27d23e7448cb9546c42677a14cb4ed": "les adversaires contrôlés par l'ordinateur. Les boutons « Gauche » et « Droite » sur l'écran des joueurs permettent de choisir leur nombre.",
+ "2a7dcc76af5428a8baf184f8e858e71f36ec6231": "Les jeux Mega Drive et Game & Watch sur la TI-Nspire.",
+ "2df9f078621b13ca1469b4db87ecca504b16e795": "Flappy Dunk tourne quatre fois plus vite et Rider deux à trois fois plus vite."
 }
