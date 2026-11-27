@@ -387,5 +387,13 @@
  "2a7dcc76af5428a8baf184f8e858e71f36ec6231": "Les jeux Mega Drive et Game & Watch sur la TI-Nspire.",
  "2df9f078621b13ca1469b4db87ecca504b16e795": "Flappy Dunk tourne quatre fois plus vite et Rider deux à trois fois plus vite.",
  "83d75bf9199df55d338817986061633157fab92a": "Hollow Knight sur Casio",
- "323d399369563961f3bca26fd36d6705e9d6ae56": "Hollow Knight et Hollow Knight: Fungal Wastes se lancent, au lieu de s'arrêter sur un écran noir avec un message « System ERROR »."
+ "323d399369563961f3bca26fd36d6705e9d6ae56": "Hollow Knight et Hollow Knight: Fungal Wastes se lancent, au lieu de s'arrêter sur un écran noir avec un message « System ERROR ».",
+ "11128288410e69a6bb9843bef685d0d9ad0425ad": "Hill Climb Racing sur Casio",
+ "3de216f2ad570ecadaaedf358d963bfca2b56778": "C'est parti pour Hill Climb Racing.",
+ "9559c6cc9162f1a17e489382199baf63984a7ff0": "Dans les jeux « Air Hockey à deux joueurs », « Tanks » et « Light Cycles », le jeu est deux à quatre fois plus rapide.",
+ "76b663390d7ba38b432d4fde82bc6aa817f16790": "Tes fichiers. Tes photos, tes PDF, tes vidéos et tes livres sous forme d'applications.",
+ "8323c0f10fcf1bf4439d6ef53becce438056fef6": "Nwagra de retour sur Epsilon 26",
+ "47e8626251fbd054a144263d9c8614f308d7c6d6": "Nwagra sur Epsilon 26 est de retour, avec ses 6,5 Mo. Le NaN de l'installateur était un bug de Retro-Go, corrigé dans la version 1.24.20, pas de Nwagra.",
+ "3fb23776e63e72dee1faa88bee0ceab6e641611f": "Hollow Knight va plus vite sur le Casio",
+ "9e48c83c8189ac633ae7f5772703938eb491ca36": "Hollow Knight et Fungal Wastes tournent environ quatre fois plus vite, et gardent la vitesse propre au jeu quand les images sont lentes. Chaque jeu envoie des images complètes à l'écran, une seule fois chacune, et effectue ses calculs en un tiers à la moitié du temps : Suika et Coreball affichent environ deux fois plus d'images."
 }

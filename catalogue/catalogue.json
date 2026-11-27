@@ -1,11 +1,11 @@
 {
- "genere": "2026-11-25T14:41:33.570Z",
- "empreinte": "040e1d71f263c3b92818d089d6a6129b355c4ab00b180fa024fa6f3b2ddf5c1a",
+ "genere": "2026-11-27T14:04:19.181Z",
+ "empreinte": "6f899b280175cb87a55df2f524c632294b9ec6becfc6447bf3d3cba881935869",
  "format": 1,
  "source": "https://github.com/Mason363/NumPlay",
  "numplay": {
-  "version": "1.24.25",
-  "release": "v1.24.25"
+  "version": "1.24.28",
+  "release": "v1.24.28"
  },
  "jeux": [
   {
@@ -66,9 +66,9 @@
    "fichier": {
     "nom": "NumBlocks.nwa",
     "taille": 831416,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumBlocks.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumBlocks.nwa",
     "sha256": "1ff3826f860e2e175cc89866fc809fa724411c907315358d2a1921a84ca8c079",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numblocks",
    "fr": {
@@ -102,9 +102,9 @@
    "fichier": {
     "nom": "HollowKnight.nwa",
     "taille": 2211884,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/HollowKnight.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/HollowKnight.nwa",
     "sha256": "73db720ec1bb82e6e963676a14053939fb1a342190f43d9dc9680b18f22c292c",
-    "maj": "2026-11-25T00:00:41Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/hollowknight",
    "fr": {
@@ -134,9 +134,9 @@
    "fichier": {
     "nom": "NumDrive.nwa",
     "taille": 243768,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumDrive.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumDrive.nwa",
     "sha256": "c6f6ce5514eb876a98c3bf42ab1943e43553e1f23380245c76ede91076292c63",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumDrive",
    "fr": {
@@ -167,9 +167,9 @@
    "fichier": {
     "nom": "Celeste.nwa",
     "taille": 2583008,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Celeste.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Celeste.nwa",
     "sha256": "8841e5aa2fc7df7c393cdd8140919b082ea99f6bcd5bb1d90a03e509f9685168",
-    "maj": "2026-11-25T00:00:41Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/celeste",
    "fr": {
@@ -199,9 +199,9 @@
    "fichier": {
     "nom": "Balatro.nwa",
     "taille": 288316,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Balatro.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Balatro.nwa",
     "sha256": "75076a62bb8671eb2d7ec00f0ae9a898de34c368ad33e46227d8f9d2bb3e3bff",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/balatro",
    "fr": {
@@ -238,9 +238,9 @@
    "fichier": {
     "nom": "Undertale.nwa",
     "taille": 1959948,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Undertale.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Undertale.nwa",
     "sha256": "3481ceb2eb7af7aed72844d249734ca36dc22209a1d9f0104770deb2ac49cb20",
-    "maj": "2026-11-25T00:00:41Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/undertale",
    "fr": {
@@ -276,9 +276,9 @@
    "fichier": {
     "nom": "NumDash.nwa",
     "taille": 823024,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumDash.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumDash.nwa",
     "sha256": "d197fe27435fefd3da9cc1f5838ae728e83c032ce8a08069693e5a56999b3fae",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumDash",
    "fr": {
@@ -309,9 +309,9 @@
    "fichier": {
     "nom": "FridayNightFunkin.nwa",
     "taille": 1896940,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FridayNightFunkin.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FridayNightFunkin.nwa",
     "sha256": "93fb26589c1d5476f55fac5e72917f8b1c97fedb01517ff2a0dd38952a1accb7",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnf",
    "fr": {
@@ -341,9 +341,9 @@
    "fichier": {
     "nom": "BuckshotRoulette.nwa",
     "taille": 264464,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/BuckshotRoulette.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/BuckshotRoulette.nwa",
     "sha256": "0d3b4a1765f9328045ae2bba16e00e54a4e02b051c9f4eb45817ae11aa0f0dd5",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/buckshot",
    "fr": {
@@ -374,9 +374,9 @@
    "fichier": {
     "nom": "AngryBirds.nwa",
     "taille": 1797080,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/AngryBirds.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/AngryBirds.nwa",
     "sha256": "c723eeea9bb82c147df530282dd5633fe07ef7d6aca130e030b03b03f92bdf7a",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/angrybirds",
    "fr": {
@@ -406,9 +406,9 @@
    "fichier": {
     "nom": "CrossyRoad.nwa",
     "taille": 22988,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/CrossyRoad.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/CrossyRoad.nwa",
     "sha256": "bac95b3ec88ca281e6718026da522df6df8e7a30b353ad9ad7af46826e593625",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/CrossyWorks",
    "fr": {
@@ -439,9 +439,9 @@
    "fichier": {
     "nom": "SubwaySurfers.nwa",
     "taille": 1767580,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/SubwaySurfers.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/SubwaySurfers.nwa",
     "sha256": "f561e0f119003fb9f2710f817fc5ff6e0a81d313247e5f3351835ce7f0b764f7",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/subway",
    "fr": {
@@ -471,9 +471,9 @@
    "fichier": {
     "nom": "PortalReturns.nwa",
     "taille": 43332,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/PortalReturns.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/PortalReturns.nwa",
     "sha256": "464a0f2b7873b792cb09374f889300cbe0fd59dd2715952a23ff070b2d108cd6",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/portal",
    "fr": {
@@ -504,9 +504,9 @@
    "fichier": {
     "nom": "JetpackJoyride.nwa",
     "taille": 690168,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/JetpackJoyride.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/JetpackJoyride.nwa",
     "sha256": "ba52d1b984af1600d6a43baefb753ed5360afcfaaba307746cc862b10b7da813",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/jetpackjoyride",
    "fr": {
@@ -536,9 +536,9 @@
    "fichier": {
     "nom": "BlockBlast.nwa",
     "taille": 34072,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/BlockBlast.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/BlockBlast.nwa",
     "sha256": "2240d036adfbeb3f6d4815a16b1e5eda06688b80fb2baad930a0c2182235483f",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/blockblast",
    "fr": {
@@ -569,9 +569,9 @@
    "fichier": {
     "nom": "MonkeyMart.nwa",
     "taille": 633704,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/MonkeyMart.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/MonkeyMart.nwa",
     "sha256": "d287fc9443d3479c9ba3d096d53bf23dc891eaa4645ec26a417fa7fdbd652244",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/monkeymart",
    "fr": {
@@ -601,9 +601,9 @@
    "fichier": {
     "nom": "SuikaGame.nwa",
     "taille": 38252,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/SuikaGame.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/SuikaGame.nwa",
     "sha256": "1f7f7f2d396df80c741385ce00306fb18114b66842204c16ea1b0b1798bfd75f",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/suika",
    "fr": {
@@ -635,9 +635,9 @@
    "fichier": {
     "nom": "PlantsVsZombies.nwa",
     "taille": 1766612,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/PlantsVsZombies.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/PlantsVsZombies.nwa",
     "sha256": "24bd4abac1aced9e43be1d41072310e157de227196d9c845a66fafe4c7bfc210",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/pvz",
    "fr": {
@@ -668,9 +668,9 @@
    "fichier": {
     "nom": "Tetris.nwa",
     "taille": 141572,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Tetris.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Tetris.nwa",
     "sha256": "50cf0af69913d8b348dd93af140ccb15dac66bf6b9df558878cdeb78a55016bd",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Tatone26/Numworks-games/tree/main/apps/tetris",
    "fr": {
@@ -701,9 +701,9 @@
    "fichier": {
     "nom": "TombOfTheMask.nwa",
     "taille": 240772,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/TombOfTheMask.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/TombOfTheMask.nwa",
     "sha256": "9d794878612191fa7124b6228bfe4b98159efa245e0f0f4b00582e3e6238047d",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/tombofthemask",
    "fr": {
@@ -734,9 +734,9 @@
    "fichier": {
     "nom": "DoodleJump.nwa",
     "taille": 138728,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/DoodleJump.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/DoodleJump.nwa",
     "sha256": "4a5a6fb0038053029f2ed82662dd3950cfcd0a5fc97dd0675bba2d943d91d9c4",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/doodlejump",
    "fr": {
@@ -767,9 +767,9 @@
    "fichier": {
     "nom": "StickmanHook.nwa",
     "taille": 213940,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/StickmanHook.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/StickmanHook.nwa",
     "sha256": "0b3b327ceb72db5d45f16397aefc3c93a2fa85aac6f0625ded8692aaea3dafb3",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/stickmanhook",
    "fr": {
@@ -799,9 +799,9 @@
    "fichier": {
     "nom": "PacMan.nwa",
     "taille": 25608,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/PacMan.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/PacMan.nwa",
     "sha256": "ca57e04942f3b1be48f65e5ca28e868f57bdbdeece0501be9b3e291120b2b2d3",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/pacman",
    "fr": {
@@ -832,9 +832,9 @@
    "fichier": {
     "nom": "Dune.nwa",
     "taille": 393592,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Dune.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Dune.nwa",
     "sha256": "02ce5ed75e3c86e651936e9352d11fe7e9b6f28514579f1955cb7a701665df75",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/dune",
    "fr": {
@@ -864,9 +864,9 @@
    "fichier": {
     "nom": "FlappyBird.nwa",
     "taille": 27392,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FlappyBird.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FlappyBird.nwa",
     "sha256": "6d84c2c16e9e87b5bdb91cf2c9d7b51d0aa290a7ee90d6c218034bf1d67c8055",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/flappybird",
    "fr": {
@@ -913,9 +913,9 @@
    "fichier": {
     "nom": "Doom.nwa",
     "taille": 2049636,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Doom.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Doom.nwa",
     "sha256": "ddb4049914e1a8156b61ee306d2986eb032d4e59886e717931c55229d35c5a47",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/doom",
    "fr": {
@@ -945,9 +945,9 @@
    "fichier": {
     "nom": "TwoPlayers.nwa",
     "taille": 43172,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/TwoPlayers.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/TwoPlayers.nwa",
     "sha256": "552f4bf796af8874212c2647d6a821ef630b36348f8d828d4f4672a1dae50593",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/twoplayer",
    "fr": {
@@ -978,9 +978,9 @@
    "fichier": {
     "nom": "UNO.nwa",
     "taille": 81132,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/UNO.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/UNO.nwa",
     "sha256": "9964cedff8be5477eb20b750632cef7cb1fb29144965587f7f1dec58dd999c7a",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/uno",
    "fr": {
@@ -1010,9 +1010,9 @@
    "fichier": {
     "nom": "NumChess.nwa",
     "taille": 31048,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumChess.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumChess.nwa",
     "sha256": "b4e354219da752cf4c3b5b8a4d878af363378adbefa2380a78318390f6a1d9ea",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumChess",
    "fr": {
@@ -1043,9 +1043,9 @@
    "fichier": {
     "nom": "Mahjong.nwa",
     "taille": 47348,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Mahjong.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Mahjong.nwa",
     "sha256": "198a6bd6db698c51f8f73bdf778574940abd5195653a3401aa5349c492d08d32",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/mahjong",
    "fr": {
@@ -1076,9 +1076,9 @@
    "fichier": {
     "nom": "FlappyDunk.nwa",
     "taille": 391076,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FlappyDunk.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FlappyDunk.nwa",
     "sha256": "df8163529289edd0fcb9692f52d15ab2b1468a195bdaaf5eb9ea19886eec65c8",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/flappydunk",
    "fr": {
@@ -1110,9 +1110,9 @@
    "fichier": {
     "nom": "FiveNightsAtFreddys.nwa",
     "taille": 1094444,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FiveNightsAtFreddys.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FiveNightsAtFreddys.nwa",
     "sha256": "a1b6954ecce7d0621788b458dd1a82d2eef8d6862d72c5fada45eae152e30520",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf",
    "fr": {
@@ -1142,9 +1142,9 @@
    "fichier": {
     "nom": "ChromeDino.nwa",
     "taille": 28552,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/ChromeDino.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/ChromeDino.nwa",
     "sha256": "5dee9bc2942b5df3d532d0feb8c22721db548e515a8b2c7f5e12c8991546f963",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/dinorun",
    "fr": {
@@ -1175,9 +1175,9 @@
    "fichier": {
     "nom": "DonkeyKong.nwa",
     "taille": 91284,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/DonkeyKong.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/DonkeyKong.nwa",
     "sha256": "dd1fe253715883e938c0fcc8cde669bd575ea8f42a6d7016b059fe4b5b629e7c",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/donkeykong",
    "fr": {
@@ -1207,9 +1207,9 @@
    "fichier": {
     "nom": "CoreBall.nwa",
     "taille": 27516,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/CoreBall.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/CoreBall.nwa",
     "sha256": "2b3665116de8db8d777358e187527c8446a9ca57af92c5de5e1ebd399f3d76ba",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/coreball",
    "fr": {
@@ -1249,9 +1249,9 @@
    "fichier": {
     "nom": "NumPowder.nwa",
     "taille": 580116,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumPowder.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumPowder.nwa",
     "sha256": "6191a70acdb7860cb24d8dc7ddb2604179516a6f37710589682b65c9510e4a4f",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numpowder",
    "fr": {
@@ -1281,9 +1281,9 @@
    "fichier": {
     "nom": "Snake.nwa",
     "taille": 31292,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Snake.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Snake.nwa",
     "sha256": "e6e797a499f4f8340144a7f62293522bfedf461839839054bff212c0de6d9587",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/snake",
    "fr": {
@@ -1314,9 +1314,9 @@
    "fichier": {
     "nom": "SonicTheHedgehog.nwa",
     "taille": 988132,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/SonicTheHedgehog.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/SonicTheHedgehog.nwa",
     "sha256": "bab525b0afdad65b7bdea5f3446dd8b6e4f7ab2e359dff87c167aab46fa396f8",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/sonic",
    "fr": {
@@ -1346,9 +1346,9 @@
    "fichier": {
     "nom": "TowerBlocks.nwa",
     "taille": 29888,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/TowerBlocks.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/TowerBlocks.nwa",
     "sha256": "25ea0b40908301131a13cd935471851b668ed4a93e154725e08114fcecbfc705",
-    "maj": "2026-11-25T00:00:48Z"
+    "maj": "2026-11-27T04:09:44Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/towerblock",
    "fr": {
@@ -1380,9 +1380,9 @@
    "fichier": {
     "nom": "BindingOfIsaac.nwa",
     "taille": 1246544,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/BindingOfIsaac.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/BindingOfIsaac.nwa",
     "sha256": "2599fb52c862b228cf725021a05fbc188d7c47759ca26bbd2a6d0f20548a6b1d",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/isaac",
    "fr": {
@@ -1412,9 +1412,9 @@
    "fichier": {
     "nom": "SpaceInvaders.nwa",
     "taille": 19184,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/SpaceInvaders.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/SpaceInvaders.nwa",
     "sha256": "9fcf8a18634a5e0df6952151f8f2b64e7805fa122639224df017af49983d30d5",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/invaders",
    "fr": {
@@ -1445,9 +1445,9 @@
    "fichier": {
     "nom": "HillClimbRacing.nwa",
     "taille": 1433696,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/HillClimbRacing.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/HillClimbRacing.nwa",
     "sha256": "822fd111faa70bedef21109f2fe8d702497bcedf336879522799eb7d2af130da",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/hillclimb",
    "fr": {
@@ -1477,9 +1477,9 @@
    "fichier": {
     "nom": "BlockBreaker.nwa",
     "taille": 23000,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/BlockBreaker.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/BlockBreaker.nwa",
     "sha256": "cf2d695c786d9f417b4bc32f816d092102515be4cf9462c1accf990f43f27c7b",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/breakout",
    "fr": {
@@ -1509,9 +1509,9 @@
    "fichier": {
     "nom": "2048.nwa",
     "taille": 21672,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/2048.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/2048.nwa",
     "sha256": "3f67dc6739542315409bacd85baa83d03674752ea0527ae5ec303f08aa5f8cc6",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/g2048",
    "fr": {
@@ -1543,9 +1543,9 @@
    "fichier": {
     "nom": "PolyTrack.nwa",
     "taille": 1331344,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/PolyTrack.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/PolyTrack.nwa",
     "sha256": "7f5326065eea4daae7f022aa44bd8115c7c332bf013d49e1ae15855269d1992f",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/polytrack",
    "fr": {
@@ -1575,9 +1575,9 @@
    "fichier": {
     "nom": "ConnectFour.nwa",
     "taille": 25860,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/ConnectFour.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/ConnectFour.nwa",
     "sha256": "8485197c454b0a6c1ce92a1846e86297d0347ebf777882c2f178d01f755186c6",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/connectfour",
    "fr": {
@@ -1608,9 +1608,9 @@
    "fichier": {
     "nom": "ChampionIsland.nwa",
     "taille": 2200248,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/ChampionIsland.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/ChampionIsland.nwa",
     "sha256": "28edc7546c4f439dcfb7173b189fd55b9f081b9cf897d92c7c6ab6207b779be9",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/championisland",
    "fr": {
@@ -1640,9 +1640,9 @@
    "fichier": {
     "nom": "UltimateTicTacToe.nwa",
     "taille": 32556,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/UltimateTicTacToe.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/UltimateTicTacToe.nwa",
     "sha256": "6ecdd619c94c8518f8d15753d3e92cd57f37f83ff36c320009ce3571a099bcd8",
-    "maj": "2026-11-25T00:00:50Z"
+    "maj": "2026-11-27T04:09:46Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/uttt",
    "fr": {
@@ -1674,9 +1674,9 @@
    "fichier": {
     "nom": "FinalEarth2.nwa",
     "taille": 1197336,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FinalEarth2.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FinalEarth2.nwa",
     "sha256": "f5a1816bdc8405508163c8913ff4a9c771aaa148ee87adf6d8474b0b46c7f3f1",
-    "maj": "2026-11-25T00:00:42Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/finalearth2",
    "fr": {
@@ -1706,9 +1706,9 @@
    "fichier": {
     "nom": "Sokoban.nwa",
     "taille": 35172,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Sokoban.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Sokoban.nwa",
     "sha256": "416d474166e7737d5f3227a4dcf1c7fad72b86fcc9e25d3a480b35eac95f30f8",
-    "maj": "2026-11-25T00:00:50Z"
+    "maj": "2026-11-27T04:09:46Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/sokoban",
    "fr": {
@@ -1739,9 +1739,9 @@
    "fichier": {
     "nom": "LevelDevil.nwa",
     "taille": 80432,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/LevelDevil.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/LevelDevil.nwa",
     "sha256": "85728c4a59076d8ed9ebfe29b92874a176467197f0ea92a9cbd7c3272a755b54",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:38Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/leveldevil",
    "fr": {
@@ -1771,9 +1771,9 @@
    "fichier": {
     "nom": "Sudoku.nwa",
     "taille": 31012,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Sudoku.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Sudoku.nwa",
     "sha256": "40c7d2dae0267a84cb072c9c15c7ce5637c3d3f746d75c94b32ae6a1f9f6f16a",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:46Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/sudoku",
    "fr": {
@@ -1804,9 +1804,9 @@
    "fichier": {
     "nom": "CookieClicker.nwa",
     "taille": 1297268,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/CookieClicker.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/CookieClicker.nwa",
     "sha256": "faed3da2dad8f85def5865b3a4fe44431ea683594ce96c30569d654faae25357",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/cookieclicker",
    "fr": {
@@ -1836,9 +1836,9 @@
    "fichier": {
     "nom": "Minesweeper.nwa",
     "taille": 26612,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Minesweeper.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Minesweeper.nwa",
     "sha256": "286f4ac389bdd7b2aa32888583bdb73c921c25d6a519cd1b67b7d48b5ee89c84",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/minesweeper",
    "fr": {
@@ -1895,9 +1895,9 @@
    "fichier": {
     "nom": "UniversalPaperclips.nwa",
     "taille": 178276,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/UniversalPaperclips.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/UniversalPaperclips.nwa",
     "sha256": "0c27d6273074dc5ca45c1cf85a7ac8acd7a7d20ed08f44c9111660b8f038273c",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/paperclips",
    "fr": {
@@ -1927,9 +1927,9 @@
    "fichier": {
     "nom": "Solitaire.nwa",
     "taille": 28768,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Solitaire.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Solitaire.nwa",
     "sha256": "49128a8a32b8add2000fd6f5fbd8e8f129baf08a407a34f342dd86971301a28e",
-    "maj": "2026-11-25T00:00:49Z"
+    "maj": "2026-11-27T04:09:45Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/solitaire",
    "fr": {
@@ -1960,9 +1960,9 @@
    "fichier": {
     "nom": "BadTimeSimulator.nwa",
     "taille": 189388,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/BadTimeSimulator.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/BadTimeSimulator.nwa",
     "sha256": "b1068acf303849f94ae828ab0762c42f77996e92e3c6f75ccb23e6ca4dbfd783",
-    "maj": "2026-11-25T00:00:44Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/badtime",
    "fr": {
@@ -2022,9 +2022,9 @@
    "fichier": {
     "nom": "Rider.nwa",
     "taille": 489936,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Rider.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Rider.nwa",
     "sha256": "dcaf1c12d8487b9d1b73ff4a11bcc7912c4c05c25978d7446274c8a8c8db7127",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/rider",
    "fr": {
@@ -2054,9 +2054,9 @@
    "fichier": {
     "nom": "NumVisuals.nwa",
     "taille": 97712,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumVisuals.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumVisuals.nwa",
     "sha256": "b3642ea4f09d5bf7dc24a8110b427f8b7136c697a59773511b11835455d8d083",
-    "maj": "2026-11-25T00:00:43Z"
+    "maj": "2026-11-27T04:09:39Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numvisuals",
    "fr": {
@@ -2087,9 +2087,9 @@
    "fichier": {
     "nom": "SnowRider3D.nwa",
     "taille": 553068,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/SnowRider3D.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/SnowRider3D.nwa",
     "sha256": "549209c59164f660fadd6a512b9cbeaea4210c0e04a7034aa5a87847bd9909d9",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:40Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/snowrider",
    "fr": {
@@ -2120,9 +2120,9 @@
    "fichier": {
     "nom": "TempleRun.nwa",
     "taille": 1931332,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/TempleRun.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/TempleRun.nwa",
     "sha256": "374b28e1a928ad1b556104371687b0285bd40729638f4140ac812a10484bb1c2",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/templerun",
    "fr": {
@@ -2154,9 +2154,9 @@
    "fichier": {
     "nom": "FiveNightsAtFreddys2.nwa",
     "taille": 1810072,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FiveNightsAtFreddys2.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FiveNightsAtFreddys2.nwa",
     "sha256": "8ad2793f022735d72a4ed63bc586a3d61112c82e75a4e644c385e0b35fc73035",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf2",
    "fr": {
@@ -2187,9 +2187,9 @@
    "fichier": {
     "nom": "Famidash.nwa",
     "taille": 1803632,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Famidash.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Famidash.nwa",
     "sha256": "1c74dd40dc944580fa4067d19784d36145df7be8f925510fdabd3d639fe6cb8d",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/famidash",
    "fr": {
@@ -2221,9 +2221,9 @@
    "fichier": {
     "nom": "FiveNightsAtFreddys3.nwa",
     "taille": 1373692,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FiveNightsAtFreddys3.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FiveNightsAtFreddys3.nwa",
     "sha256": "90ceb46e1300d5c3c6e67804cb4d865e61c4f430c7530f019086dfac505e0e13",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf3",
    "fr": {
@@ -2255,9 +2255,9 @@
    "fichier": {
     "nom": "FiveNightsAtFreddys4.nwa",
     "taille": 1290232,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FiveNightsAtFreddys4.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FiveNightsAtFreddys4.nwa",
     "sha256": "d6ddb73c11f6a2fafe36bd68c76c94b5f6a0c04f25a72f9a092e335168c7df64",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnaf4",
    "fr": {
@@ -2289,9 +2289,9 @@
    "fichier": {
     "nom": "ClashRoyale.nwa",
     "taille": 1344692,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/ClashRoyale.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/ClashRoyale.nwa",
     "sha256": "bdf75c39caba93eb23018ca6330616611a1e7bd1abb1143ac48df433fc0ce98f",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/clashroyale",
    "fr": {
@@ -2322,9 +2322,9 @@
    "fichier": {
     "nom": "CatNinja.nwa",
     "taille": 233844,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/CatNinja.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/CatNinja.nwa",
     "sha256": "1ddb8b7ddaad1162e4be83394fec9bb6fcd3c13806460ef5fedb91af133c1cdd",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/catninja",
    "fr": {
@@ -2355,9 +2355,9 @@
    "fichier": {
     "nom": "KingdomRush.nwa",
     "taille": 1762964,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/KingdomRush.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/KingdomRush.nwa",
     "sha256": "d2bee86acdfb45b56005088525faed8a822e6c52ea24ed6d8133b449eac68423",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/kingdomrush",
    "fr": {
@@ -2394,9 +2394,9 @@
    "fichier": {
     "nom": "Deltarune.nwa",
     "taille": 1263720,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Deltarune.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Deltarune.nwa",
     "sha256": "432c0c5356c3ddc5443cfef0f2ecd196948dc025c8b7882b5cead39a674e07b2",
-    "maj": "2026-11-25T00:00:41Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/deltarune",
    "fr": {
@@ -2429,9 +2429,9 @@
    "fichier": {
     "nom": "FiveNightsAtFreddysWorld.nwa",
     "taille": 4870596,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FiveNightsAtFreddysWorld.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FiveNightsAtFreddysWorld.nwa",
     "sha256": "8d2a6baebda1f645214c2bfe79162db55beb33e2eacd1733d525dedded6e02de",
-    "maj": "2026-11-25T00:00:45Z"
+    "maj": "2026-11-27T04:09:41Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fnafworld",
    "fr": {
@@ -2462,9 +2462,9 @@
    "fichier": {
     "nom": "MrBullet.nwa",
     "taille": 509072,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/MrBullet.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/MrBullet.nwa",
     "sha256": "5e61ee54ab1a20d1b4435e693052563043ab5150ab585562bce2b8eed5021309",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/mrbullet",
    "fr": {
@@ -2497,9 +2497,9 @@
    "fichier": {
     "nom": "NumPico.nwa",
     "taille": 296916,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/NumPico.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/NumPico.nwa",
     "sha256": "99aa4622a2f24e943be30e18a54a2e953c22fc1f68a51b301328081ce2086969",
-    "maj": "2026-11-25T00:00:47Z"
+    "maj": "2026-11-27T04:09:43Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/numpico",
    "fr": {
@@ -2530,9 +2530,9 @@
    "fichier": {
     "nom": "MotoX3M.nwa",
     "taille": 1916104,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/MotoX3M.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/MotoX3M.nwa",
     "sha256": "ad4511abe48dc1bc557dfca436c9f80273d9df7dd502e1901281e891e108c6ba",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/motox3m",
    "fr": {
@@ -2564,9 +2564,9 @@
    "fichier": {
     "nom": "AmongUs.nwa",
     "taille": 1668564,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/AmongUs.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/AmongUs.nwa",
     "sha256": "ed0ac52e8360d562f11f5e665cd9e681549b28008e5a2b43586e3a90bc7a6b91",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/amongus",
    "fr": {
@@ -2597,9 +2597,9 @@
    "fichier": {
     "nom": "Imposter.nwa",
     "taille": 73416,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/Imposter.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/Imposter.nwa",
     "sha256": "8bb9657c8c00a6d4c0b793f832683378e02f78f3ac73581f7af5b9195bde4f6d",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/imposter",
    "fr": {
@@ -2630,9 +2630,9 @@
    "fichier": {
     "nom": "FourPlayers.nwa",
     "taille": 137740,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/FourPlayers.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/FourPlayers.nwa",
     "sha256": "61bb803ecd3322b2fc389233d74fbf8d1902847ed3ca8320b10566bb5c08d383",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/fourplayer",
    "fr": {
@@ -2666,9 +2666,9 @@
    "fichier": {
     "nom": "HollowKnightFungalWastes.nwa",
     "taille": 1683148,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/HollowKnightFungalWastes.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/HollowKnightFungalWastes.nwa",
     "sha256": "83e745f1ff45c931ec2397424302600c9f0453f21a76ba01b56bed64c47b83ce",
-    "maj": "2026-11-25T00:00:41Z"
+    "maj": "2026-11-27T04:09:37Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/hkfungal",
    "fr": {
@@ -2699,9 +2699,9 @@
    "fichier": {
     "nom": "CircloO.nwa",
     "taille": 128924,
-    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.25/CircloO.nwa",
+    "url": "https://github.com/Mason363/NumPlay/releases/download/v1.24.28/CircloO.nwa",
     "sha256": "947f5d8434959e630cb0a5f9d136b7f79a2ebd0517d3d65aac3822313e82d32e",
-    "maj": "2026-11-25T00:00:46Z"
+    "maj": "2026-11-27T04:09:42Z"
    },
    "depot": "https://github.com/Mason363/NumPlay/tree/main/games/circloo",
    "fr": {
@@ -2774,6 +2774,52 @@
   }
  ],
  "versions": [
+  {
+   "num": "1.24.28",
+   "titre": "Hill Climb Racing on the Casio",
+   "titre_fr": "Hill Climb Racing sur Casio",
+   "notes": [
+    {
+     "jeu": "Casio fx-CG50",
+     "texte": "Hill Climb Racing starts.",
+     "texte_fr": "C'est parti pour Hill Climb Racing."
+    },
+    {
+     "jeu": "TI-84 Plus CE",
+     "texte": "2 Players' Air Hockey, Tanks and Light Cycles run two to four times faster.",
+     "texte_fr": "Dans les jeux « Air Hockey à deux joueurs », « Tanks » et « Light Cycles », le jeu est deux à quatre fois plus rapide."
+    },
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "Your files. Your pictures, PDFs, videos and books as apps.",
+     "texte_fr": "Tes fichiers. Tes photos, tes PDF, tes vidéos et tes livres sous forme d'applications."
+    }
+   ]
+  },
+  {
+   "num": "1.24.27",
+   "titre": "Nwagra on Epsilon 26 again",
+   "titre_fr": "Nwagra de retour sur Epsilon 26",
+   "notes": [
+    {
+     "jeu": "NumPlay Studio",
+     "texte": "Nwagra on Epsilon 26 is back, with its 6.5 MB. The installer's NaN was a Retro-Go bug, fixed in 1.24.20, not Nwagra.",
+     "texte_fr": "Nwagra sur Epsilon 26 est de retour, avec ses 6,5 Mo. Le NaN de l'installateur était un bug de Retro-Go, corrigé dans la version 1.24.20, pas de Nwagra."
+    }
+   ]
+  },
+  {
+   "num": "1.24.26",
+   "titre": "Hollow Knight faster on the Casio",
+   "titre_fr": "Hollow Knight va plus vite sur le Casio",
+   "notes": [
+    {
+     "jeu": "Casio fx-CG50",
+     "texte": "Hollow Knight and Fungal Wastes run about four times faster, and keep the game's own speed when frames are slow. Every game sends whole frames to the screen, once each, and does its maths in a third to half the time: Suika and Coreball show about twice as many frames.",
+     "texte_fr": "Hollow Knight et Fungal Wastes tournent environ quatre fois plus vite, et gardent la vitesse propre au jeu quand les images sont lentes. Chaque jeu envoie des images complètes à l'écran, une seule fois chacune, et effectue ses calculs en un tiers à la moitié du temps : Suika et Coreball affichent environ deux fois plus d'images."
+    }
+   ]
+  },
   {
    "num": "1.24.25",
    "titre": "Hollow Knight on the Casio",
